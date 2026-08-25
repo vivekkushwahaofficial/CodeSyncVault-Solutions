@@ -58,11 +58,11 @@
 
 | Problem | Difficulty | Language | Platform |
 | --- | --- | --- | --- |
+| [Two Sum](LeetCode/C++/easy/Two-Sum/README.md) | Easy | C++ | LeetCode |
 | [Remove Duplicates from Sorted Array](LeetCode/Java/easy/Remove-Duplicates-from-Sorted-Array/README.md) | Easy | Java | LeetCode |
 | [ Java Stdin and Stdout I](HackerRank/Java/Easy/Java-Stdin-and-Stdout-I/README.md) | Easy | Java | HackerRank |
 | [Welcome to Java!](HackerRank/Java/Easy/Welcome-to-Java!/README.md) | Easy | Java | HackerRank |
 | [Array Search](gfg/Java/Basic/Array-Search/README.md) | Basic | Java | gfg |
-| [Two Sum](LeetCode/C++/easy/Two-Sum/README.md) | Easy | C++ | LeetCode |
 | [Two Sum](LeetCode/Java/easy/Two-Sum/README.md) | Easy | Java | LeetCode |
 
 ## 🗂 Repository
