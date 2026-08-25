@@ -96,6 +96,27 @@
         "tags": []
       },
       "solvedAt": "2026-08-22T01:51:05.000Z"
+    },
+    {
+      "path": "LeetCode/Java/easy/Remove-Duplicates-from-Sorted-Array/Solution.java",
+      "metadata": {
+        "platform": "LeetCode",
+        "title": "Remove Duplicates from Sorted Array",
+        "slug": "remove-duplicates-from-sorted-array",
+        "difficulty": "easy",
+        "language": "Java",
+        "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/2120043653/",
+        "solvedAt": "2026-08-25T18:21:41.987Z",
+        "patterns": [],
+        "topics": [
+          "Array"
+        ],
+        "tags": [
+          "Array",
+          "Sorting"
+        ]
+      },
+      "solvedAt": "2026-08-25T18:21:41.987Z"
     }
   ]
 }
