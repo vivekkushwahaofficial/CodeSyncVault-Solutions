@@ -10,9 +10,9 @@
 
 | Metric | Count |
 | --- | ---: |
-| 🏆 Total Solved | 6 |
+| 🏆 Total Solved | 7 |
 | 🔵 Basic | 1 |
-| 🟢 Easy | 5 |
+| 🟢 Easy | 6 |
 | 🟠 Medium | 0 |
 | 🔴 Hard | 0 |
 
@@ -20,10 +20,10 @@
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | ███░░░░░░░░░░░░░░░░░ 17% | 1/6 |
-| 🟢 Easy | █████████████████░░░ 83% | 5/6 |
-| 🟠 Medium | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/6 |
-| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/6 |
+| 🔵 Basic | ███░░░░░░░░░░░░░░░░░ 14% | 1/7 |
+| 🟢 Easy | █████████████████░░░ 86% | 6/7 |
+| 🟠 Medium | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/7 |
+| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/7 |
 
 ## 🔥 Coding Activity
 
@@ -45,19 +45,21 @@
 | --- | ---: |
 | Java | 5 |
 | C++ | 1 |
+| Python | 1 |
 
 ## 🌐 Platforms
 
 | Platform | Problems |
 | --- | ---: |
+| HackerRank | 3 |
 | LeetCode | 3 |
-| HackerRank | 2 |
 | gfg | 1 |
 
 ## 🕒 Recently Solved
 
 | Problem | Difficulty | Language | Platform |
 | --- | --- | --- | --- |
+| [Say "Hello, World!" With Python](HackerRank/Python/Easy/Say-Hello,-World!-With-Python/README.md) | Easy | Python | HackerRank |
 | [Two Sum](LeetCode/C++/easy/Two-Sum/README.md) | Easy | C++ | LeetCode |
 | [Remove Duplicates from Sorted Array](LeetCode/Java/easy/Remove-Duplicates-from-Sorted-Array/README.md) | Easy | Java | LeetCode |
 | [ Java Stdin and Stdout I](HackerRank/Java/Easy/Java-Stdin-and-Stdout-I/README.md) | Easy | Java | HackerRank |
