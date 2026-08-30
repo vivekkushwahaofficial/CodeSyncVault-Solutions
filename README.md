@@ -10,20 +10,20 @@
 
 | Metric | Count |
 | --- | ---: |
-| 🏆 Total Solved | 7 |
+| 🏆 Total Solved | 8 |
 | 🔵 Basic | 1 |
 | 🟢 Easy | 6 |
-| 🟠 Medium | 0 |
+| 🟠 Medium | 1 |
 | 🔴 Hard | 0 |
 
 ## 📈 Progress
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | ███░░░░░░░░░░░░░░░░░ 14% | 1/7 |
-| 🟢 Easy | █████████████████░░░ 86% | 6/7 |
-| 🟠 Medium | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/7 |
-| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/7 |
+| 🔵 Basic | ███░░░░░░░░░░░░░░░░░ 13% | 1/8 |
+| 🟢 Easy | ███████████████░░░░░ 75% | 6/8 |
+| 🟠 Medium | ███░░░░░░░░░░░░░░░░░ 13% | 1/8 |
+| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/8 |
 
 ## 🔥 Coding Activity
 
@@ -34,6 +34,8 @@
 | Pattern | Problems |
 | --- | ---: |
 | [Hash Map](patterns/Hash%20Map.md) | 2 |
+| [Monotonic Stack](patterns/Monotonic%20Stack.md) | 1 |
+| [Stack](patterns/Stack.md) | 1 |
 
 | Topic | Problems |
 | --- | ---: |
@@ -43,7 +45,7 @@
 
 | Language | Problems |
 | --- | ---: |
-| Java | 5 |
+| Java | 6 |
 | C++ | 1 |
 | Python | 1 |
 
@@ -53,12 +55,13 @@
 | --- | ---: |
 | HackerRank | 3 |
 | LeetCode | 3 |
-| gfg | 1 |
+| gfg | 2 |
 
 ## 🕒 Recently Solved
 
 | Problem | Difficulty | Language | Platform |
 | --- | --- | --- | --- |
+| [Next Greater Element](gfg/Java/Medium/Next-Greater-Element/README.md) | Medium | Java | gfg |
 | [Say "Hello, World!" With Python](HackerRank/Python/Easy/Say-Hello,-World!-With-Python/README.md) | Easy | Python | HackerRank |
 | [Two Sum](LeetCode/C++/easy/Two-Sum/README.md) | Easy | C++ | LeetCode |
 | [Remove Duplicates from Sorted Array](LeetCode/Java/easy/Remove-Duplicates-from-Sorted-Array/README.md) | Easy | Java | LeetCode |

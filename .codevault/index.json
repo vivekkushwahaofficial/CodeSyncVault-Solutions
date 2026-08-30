@@ -133,6 +133,28 @@
         "tags": []
       },
       "solvedAt": "2026-08-30T17:39:58.000Z"
+    },
+    {
+      "path": "gfg/Java/Medium/Next-Greater-Element/Solution.java",
+      "metadata": {
+        "platform": "gfg",
+        "title": "Next Greater Element",
+        "slug": "next-larger-element-1587115620",
+        "difficulty": "Medium",
+        "language": "Java",
+        "url": "https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/1?utm_source=chatgpt.com",
+        "solvedAt": "2026-08-30T19:49:54.698Z",
+        "patterns": [
+          "Monotonic Stack",
+          "Stack"
+        ],
+        "topics": [],
+        "tags": [
+          "Monotonic Stack",
+          "Stack"
+        ]
+      },
+      "solvedAt": "2026-08-30T19:49:54.698Z"
     }
   ]
 }
