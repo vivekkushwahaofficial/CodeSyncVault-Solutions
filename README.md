@@ -61,9 +61,9 @@
 
 | Problem | Difficulty | Language | Platform |
 | --- | --- | --- | --- |
+| [Two Sum](LeetCode/C++/easy/Two-Sum/README.md) | Easy | C++ | LeetCode |
 | [Next Greater Element](gfg/Java/Medium/Next-Greater-Element/README.md) | Medium | Java | gfg |
 | [Say "Hello, World!" With Python](HackerRank/Python/Easy/Say-Hello,-World!-With-Python/README.md) | Easy | Python | HackerRank |
-| [Two Sum](LeetCode/C++/easy/Two-Sum/README.md) | Easy | C++ | LeetCode |
 | [Remove Duplicates from Sorted Array](LeetCode/Java/easy/Remove-Duplicates-from-Sorted-Array/README.md) | Easy | Java | LeetCode |
 | [ Java Stdin and Stdout I](HackerRank/Java/Easy/Java-Stdin-and-Stdout-I/README.md) | Easy | Java | HackerRank |
 | [Welcome to Java!](HackerRank/Java/Easy/Welcome-to-Java!/README.md) | Easy | Java | HackerRank |

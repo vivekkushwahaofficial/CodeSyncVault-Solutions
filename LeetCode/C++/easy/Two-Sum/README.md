@@ -4,7 +4,7 @@
 
 ## Problem
 
-https://leetcode.com/problems/two-sum/submissions/2120046323/
+https://leetcode.com/problems/two-sum/submissions/2137932530/
 
 ---
 

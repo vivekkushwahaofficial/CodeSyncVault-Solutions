@@ -31,8 +31,8 @@
         "slug": "two-sum",
         "difficulty": "easy",
         "language": "C++",
-        "url": "https://leetcode.com/problems/two-sum/submissions/2120046323/",
-        "solvedAt": "2026-08-25T18:23:40.679Z",
+        "url": "https://leetcode.com/problems/two-sum/submissions/2137932530/",
+        "solvedAt": "2026-09-10T20:06:40.921Z",
         "patterns": [
           "Hash Map"
         ],
@@ -43,7 +43,7 @@
         "timeComplexity": "O(n)",
         "spaceComplexity": "O(n)"
       },
-      "solvedAt": "2026-08-25T18:23:40.679Z"
+      "solvedAt": "2026-09-10T20:06:40.921Z"
     },
     {
       "path": "gfg/Java/Basic/Array-Search/Solution.java",
