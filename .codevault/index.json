@@ -90,12 +90,12 @@
         "difficulty": "Easy",
         "language": "Java",
         "url": "https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem?isFullScreen=true",
-        "solvedAt": "2026-08-22T01:51:05.000Z",
+        "solvedAt": "2026-09-19T09:45:55.000Z",
         "patterns": [],
         "topics": [],
         "tags": []
       },
-      "solvedAt": "2026-08-22T01:51:05.000Z"
+      "solvedAt": "2026-09-19T09:45:55.000Z"
     },
     {
       "path": "LeetCode/Java/easy/Remove-Duplicates-from-Sorted-Array/Solution.java",
