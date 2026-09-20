@@ -155,6 +155,28 @@
         ]
       },
       "solvedAt": "2026-08-30T19:49:54.698Z"
+    },
+    {
+      "path": "LeetCode/Python/easy/Two-Sum/Solution.py",
+      "metadata": {
+        "platform": "LeetCode",
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "difficulty": "easy",
+        "language": "Python",
+        "url": "https://leetcode.com/problems/two-sum/submissions/2147337359/",
+        "solvedAt": "2026-09-20T05:20:47.692Z",
+        "patterns": [
+          "Hash Map"
+        ],
+        "topics": [],
+        "tags": [
+          "Hash Map"
+        ],
+        "timeComplexity": "O(n)",
+        "spaceComplexity": "O(n)"
+      },
+      "solvedAt": "2026-09-20T05:20:47.692Z"
     }
   ]
 }
