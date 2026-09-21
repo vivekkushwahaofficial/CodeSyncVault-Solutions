@@ -1,8 +1,8 @@
 # ⚡ Coding Solutions Portfolio
 
-> Automatically organized, analyzed, and updated by **CodeVault**.
+> Automatically organized, analyzed, and updated by **CodeSyncVault**.
 
-[![CodeVault](https://img.shields.io/badge/Powered%20by-CodeVault-6e40c9)](https://github.com/vivekkushwahaofficial/CodeVault)
+[![CodeSyncVault](https://img.shields.io/badge/Powered%20by-CodeSyncVault-6e40c9)](https://github.com/vivekkushwahaofficial/CodeSyncVault)
 
 ---
 
@@ -10,9 +10,9 @@
 
 | Metric | Count |
 | --- | ---: |
-| 🏆 Total Solved | 9 |
+| 🏆 Total Solved | 10 |
 | 🔵 Basic | 1 |
-| 🟢 Easy | 7 |
+| 🟢 Easy | 8 |
 | 🟠 Medium | 1 |
 | 🔴 Hard | 0 |
 
@@ -20,14 +20,14 @@
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | ██░░░░░░░░░░░░░░░░░░ 11% | 1/9 |
-| 🟢 Easy | ████████████████░░░░ 78% | 7/9 |
-| 🟠 Medium | ██░░░░░░░░░░░░░░░░░░ 11% | 1/9 |
-| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/9 |
+| 🔵 Basic | ██░░░░░░░░░░░░░░░░░░ 10% | 1/10 |
+| 🟢 Easy | ████████████████░░░░ 80% | 8/10 |
+| 🟠 Medium | ██░░░░░░░░░░░░░░░░░░ 10% | 1/10 |
+| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/10 |
 
 ## 🔥 Coding Activity
 
-![CodeVault Coding Activity](.codevault/activity.svg)
+![CodeSyncVault Coding Activity](.codevault/activity.svg)
 
 ## 🧩 Pattern & Topic Index
 
@@ -45,7 +45,7 @@
 
 | Language | Problems |
 | --- | ---: |
-| Java | 6 |
+| Java | 7 |
 | Python | 2 |
 | C++ | 1 |
 
@@ -54,13 +54,14 @@
 | Platform | Problems |
 | --- | ---: |
 | LeetCode | 4 |
+| gfg | 3 |
 | HackerRank | 3 |
-| gfg | 2 |
 
 ## 🕒 Recently Solved
 
 | Problem | Difficulty | Language | Platform |
 | --- | --- | --- | --- |
+| [Stock Buy and Sell – Max one Transaction Allowed](gfg/Java/Easy/Stock-Buy-and-Sell-–-Max-one-Transaction-Allowed/README.md) | Easy | Java | gfg |
 | [Array Search](gfg/Java/Basic/Array-Search/README.md) | Basic | Java | gfg |
 | [Two Sum](LeetCode/Python/easy/Two-Sum/README.md) | Easy | Python | LeetCode |
 | [ Java Stdin and Stdout I](HackerRank/Java/Easy/Java-Stdin-and-Stdout-I/README.md) | Easy | Java | HackerRank |
@@ -79,6 +80,6 @@
 
 ---
 
-### 🤖 Powered by CodeVault
+### 🤖 Powered by CodeSyncVault
 
-This README is generated automatically from the CodeVault repository index.
+This README is generated automatically from the CodeSyncVault repository index.

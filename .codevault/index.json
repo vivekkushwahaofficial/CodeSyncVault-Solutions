@@ -177,6 +177,22 @@
         "spaceComplexity": "O(n)"
       },
       "solvedAt": "2026-09-20T05:20:47.692Z"
+    },
+    {
+      "path": "gfg/Java/Easy/Stock-Buy-and-Sell-–-Max-one-Transaction-Allowed/Solution.java",
+      "metadata": {
+        "platform": "gfg",
+        "title": "Stock Buy and Sell – Max one Transaction Allowed",
+        "slug": "buy-stock-2",
+        "difficulty": "Easy",
+        "language": "Java",
+        "url": "https://www.geeksforgeeks.org/problems/buy-stock-2/1",
+        "solvedAt": "2026-09-21T12:47:40.658Z",
+        "patterns": [],
+        "topics": [],
+        "tags": []
+      },
+      "solvedAt": "2026-09-21T12:47:40.658Z"
     }
   ]
 }
