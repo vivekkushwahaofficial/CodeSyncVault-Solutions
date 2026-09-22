@@ -10,20 +10,20 @@
 
 | Metric | Count |
 | --- | ---: |
-| 🏆 Total Solved | 11 |
+| 🏆 Total Solved | 12 |
 | 🔵 Basic | 1 |
 | 🟢 Easy | 9 |
-| 🟠 Medium | 1 |
+| 🟠 Medium | 2 |
 | 🔴 Hard | 0 |
 
 ## 📈 Progress
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | ██░░░░░░░░░░░░░░░░░░ 9% | 1/11 |
-| 🟢 Easy | ████████████████░░░░ 82% | 9/11 |
-| 🟠 Medium | ██░░░░░░░░░░░░░░░░░░ 9% | 1/11 |
-| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/11 |
+| 🔵 Basic | ██░░░░░░░░░░░░░░░░░░ 8% | 1/12 |
+| 🟢 Easy | ███████████████░░░░░ 75% | 9/12 |
+| 🟠 Medium | ███░░░░░░░░░░░░░░░░░ 17% | 2/12 |
+| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/12 |
 
 ## 🔥 Coding Activity
 
@@ -40,12 +40,13 @@
 | Topic | Problems |
 | --- | ---: |
 | [Array](topics/Array.md) | 2 |
+| [Math](topics/Math.md) | 1 |
 
 ## 💻 Languages
 
 | Language | Problems |
 | --- | ---: |
-| Java | 8 |
+| Java | 9 |
 | Python | 2 |
 | C++ | 1 |
 
@@ -53,14 +54,15 @@
 
 | Platform | Problems |
 | --- | ---: |
+| LeetCode | 5 |
 | gfg | 4 |
-| LeetCode | 4 |
 | HackerRank | 3 |
 
 ## 🕒 Recently Solved
 
 | Problem | Difficulty | Language | Platform |
 | --- | --- | --- | --- |
+| [Reverse Integer](LeetCode/Java/medium/Reverse-Integer/README.md) | Medium | Java | LeetCode |
 | [Third Largest](gfg/Java/Easy/Third-Largest/README.md) | Easy | Java | gfg |
 | [Stock Buy and Sell – Max one Transaction Allowed](gfg/Java/Easy/Stock-Buy-and-Sell-–-Max-one-Transaction-Allowed/README.md) | Easy | Java | gfg |
 | [Array Search](gfg/Java/Basic/Array-Search/README.md) | Basic | Java | gfg |
@@ -70,7 +72,6 @@
 | [Next Greater Element](gfg/Java/Medium/Next-Greater-Element/README.md) | Medium | Java | gfg |
 | [Say "Hello, World!" With Python](HackerRank/Python/Easy/Say-Hello,-World!-With-Python/README.md) | Easy | Python | HackerRank |
 | [Remove Duplicates from Sorted Array](LeetCode/Java/easy/Remove-Duplicates-from-Sorted-Array/README.md) | Easy | Java | LeetCode |
-| [Welcome to Java!](HackerRank/Java/Easy/Welcome-to-Java!/README.md) | Easy | Java | HackerRank |
 
 ## 🗂 Repository
 

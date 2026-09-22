@@ -209,6 +209,26 @@
         "tags": []
       },
       "solvedAt": "2026-09-21T13:29:43.971Z"
+    },
+    {
+      "path": "LeetCode/Java/medium/Reverse-Integer/Solution.java",
+      "metadata": {
+        "platform": "LeetCode",
+        "title": "Reverse Integer",
+        "slug": "reverse-integer",
+        "difficulty": "medium",
+        "language": "Java",
+        "url": "https://leetcode.com/problems/reverse-integer/submissions/2149606762/",
+        "solvedAt": "2026-09-22T10:29:58.765Z",
+        "patterns": [],
+        "topics": [
+          "Math"
+        ],
+        "tags": [
+          "Math"
+        ]
+      },
+      "solvedAt": "2026-09-22T10:29:58.765Z"
     }
   ]
 }
