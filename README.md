@@ -10,9 +10,9 @@
 
 | Metric | Count |
 | --- | ---: |
-| 🏆 Total Solved | 12 |
+| 🏆 Total Solved | 13 |
 | 🔵 Basic | 1 |
-| 🟢 Easy | 9 |
+| 🟢 Easy | 10 |
 | 🟠 Medium | 2 |
 | 🔴 Hard | 0 |
 
@@ -20,10 +20,10 @@
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | ██░░░░░░░░░░░░░░░░░░ 8% | 1/12 |
-| 🟢 Easy | ███████████████░░░░░ 75% | 9/12 |
-| 🟠 Medium | ███░░░░░░░░░░░░░░░░░ 17% | 2/12 |
-| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/12 |
+| 🔵 Basic | ██░░░░░░░░░░░░░░░░░░ 8% | 1/13 |
+| 🟢 Easy | ███████████████░░░░░ 77% | 10/13 |
+| 🟠 Medium | ███░░░░░░░░░░░░░░░░░ 15% | 2/13 |
+| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/13 |
 
 ## 🔥 Coding Activity
 
@@ -40,13 +40,13 @@
 | Topic | Problems |
 | --- | ---: |
 | [Array](topics/Array.md) | 2 |
-| [Math](topics/Math.md) | 1 |
+| [Math](topics/Math.md) | 2 |
 
 ## 💻 Languages
 
 | Language | Problems |
 | --- | ---: |
-| Java | 9 |
+| Java | 10 |
 | Python | 2 |
 | C++ | 1 |
 
@@ -54,7 +54,7 @@
 
 | Platform | Problems |
 | --- | ---: |
-| LeetCode | 5 |
+| LeetCode | 6 |
 | gfg | 4 |
 | HackerRank | 3 |
 
@@ -62,6 +62,7 @@
 
 | Problem | Difficulty | Language | Platform |
 | --- | --- | --- | --- |
+| [Roman to Integer](LeetCode/Java/easy/Roman-to-Integer/README.md) | Easy | Java | LeetCode |
 | [Reverse Integer](LeetCode/Java/medium/Reverse-Integer/README.md) | Medium | Java | LeetCode |
 | [Third Largest](gfg/Java/Easy/Third-Largest/README.md) | Easy | Java | gfg |
 | [Stock Buy and Sell – Max one Transaction Allowed](gfg/Java/Easy/Stock-Buy-and-Sell-–-Max-one-Transaction-Allowed/README.md) | Easy | Java | gfg |
@@ -71,7 +72,6 @@
 | [Two Sum](LeetCode/C++/easy/Two-Sum/README.md) | Easy | C++ | LeetCode |
 | [Next Greater Element](gfg/Java/Medium/Next-Greater-Element/README.md) | Medium | Java | gfg |
 | [Say "Hello, World!" With Python](HackerRank/Python/Easy/Say-Hello,-World!-With-Python/README.md) | Easy | Python | HackerRank |
-| [Remove Duplicates from Sorted Array](LeetCode/Java/easy/Remove-Duplicates-from-Sorted-Array/README.md) | Easy | Java | LeetCode |
 
 ## 🗂 Repository
 

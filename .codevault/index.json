@@ -229,6 +229,26 @@
         ]
       },
       "solvedAt": "2026-09-22T10:29:58.765Z"
+    },
+    {
+      "path": "LeetCode/Java/easy/Roman-to-Integer/Solution.java",
+      "metadata": {
+        "platform": "LeetCode",
+        "title": "Roman to Integer",
+        "slug": "roman-to-integer",
+        "difficulty": "easy",
+        "language": "Java",
+        "url": "https://leetcode.com/problems/roman-to-integer/submissions/2151281505/",
+        "solvedAt": "2026-09-23T18:45:44.547Z",
+        "patterns": [],
+        "topics": [
+          "Math"
+        ],
+        "tags": [
+          "Math"
+        ]
+      },
+      "solvedAt": "2026-09-23T18:45:44.547Z"
     }
   ]
 }
