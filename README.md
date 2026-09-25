@@ -10,9 +10,9 @@
 
 | Metric | Count |
 | --- | ---: |
-| 🏆 Total Solved | 13 |
+| 🏆 Total Solved | 14 |
 | 🔵 Basic | 1 |
-| 🟢 Easy | 10 |
+| 🟢 Easy | 11 |
 | 🟠 Medium | 2 |
 | 🔴 Hard | 0 |
 
@@ -20,10 +20,10 @@
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | ██░░░░░░░░░░░░░░░░░░ 8% | 1/13 |
-| 🟢 Easy | ███████████████░░░░░ 77% | 10/13 |
-| 🟠 Medium | ███░░░░░░░░░░░░░░░░░ 15% | 2/13 |
-| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/13 |
+| 🔵 Basic | █░░░░░░░░░░░░░░░░░░░ 7% | 1/14 |
+| 🟢 Easy | ████████████████░░░░ 79% | 11/14 |
+| 🟠 Medium | ███░░░░░░░░░░░░░░░░░ 14% | 2/14 |
+| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/14 |
 
 ## 🔥 Coding Activity
 
@@ -46,7 +46,7 @@
 
 | Language | Problems |
 | --- | ---: |
-| Java | 10 |
+| Java | 11 |
 | Python | 2 |
 | C++ | 1 |
 
@@ -54,7 +54,7 @@
 
 | Platform | Problems |
 | --- | ---: |
-| LeetCode | 6 |
+| LeetCode | 7 |
 | gfg | 4 |
 | HackerRank | 3 |
 
@@ -62,6 +62,7 @@
 
 | Problem | Difficulty | Language | Platform |
 | --- | --- | --- | --- |
+| [Add Binary](LeetCode/Java/easy/Add-Binary/README.md) | Easy | Java | LeetCode |
 | [Roman to Integer](LeetCode/Java/easy/Roman-to-Integer/README.md) | Easy | Java | LeetCode |
 | [Reverse Integer](LeetCode/Java/medium/Reverse-Integer/README.md) | Medium | Java | LeetCode |
 | [Third Largest](gfg/Java/Easy/Third-Largest/README.md) | Easy | Java | gfg |
@@ -71,7 +72,6 @@
 | [ Java Stdin and Stdout I](HackerRank/Java/Easy/Java-Stdin-and-Stdout-I/README.md) | Easy | Java | HackerRank |
 | [Two Sum](LeetCode/C++/easy/Two-Sum/README.md) | Easy | C++ | LeetCode |
 | [Next Greater Element](gfg/Java/Medium/Next-Greater-Element/README.md) | Medium | Java | gfg |
-| [Say "Hello, World!" With Python](HackerRank/Python/Easy/Say-Hello,-World!-With-Python/README.md) | Easy | Python | HackerRank |
 
 ## 🗂 Repository
 
