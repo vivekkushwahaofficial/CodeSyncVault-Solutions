@@ -10,9 +10,9 @@
 
 | Metric | Count |
 | --- | ---: |
-| 🏆 Total Solved | 17 |
+| 🏆 Total Solved | 18 |
 | 🔵 Basic | 1 |
-| 🟢 Easy | 14 |
+| 🟢 Easy | 15 |
 | 🟠 Medium | 2 |
 | 🔴 Hard | 0 |
 
@@ -20,10 +20,10 @@
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | █░░░░░░░░░░░░░░░░░░░ 6% | 1/17 |
-| 🟢 Easy | ████████████████░░░░ 82% | 14/17 |
-| 🟠 Medium | ██░░░░░░░░░░░░░░░░░░ 12% | 2/17 |
-| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/17 |
+| 🔵 Basic | █░░░░░░░░░░░░░░░░░░░ 6% | 1/18 |
+| 🟢 Easy | █████████████████░░░ 83% | 15/18 |
+| 🟠 Medium | ██░░░░░░░░░░░░░░░░░░ 11% | 2/18 |
+| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/18 |
 
 ## 🔥 Coding Activity
 
@@ -39,14 +39,14 @@
 
 | Topic | Problems |
 | --- | ---: |
+| [Math](topics/Math.md) | 3 |
 | [Array](topics/Array.md) | 2 |
-| [Math](topics/Math.md) | 2 |
 
 ## 💻 Languages
 
 | Language | Problems |
 | --- | ---: |
-| Java | 13 |
+| Java | 14 |
 | Python | 3 |
 | C++ | 1 |
 
@@ -54,7 +54,7 @@
 
 | Platform | Problems |
 | --- | ---: |
-| LeetCode | 9 |
+| LeetCode | 10 |
 | gfg | 4 |
 | HackerRank | 4 |
 
@@ -62,6 +62,7 @@
 
 | Problem | Difficulty | Language | Platform |
 | --- | --- | --- | --- |
+| [Single Number](LeetCode/Java/easy/Single-Number/README.md) | Easy | Java | LeetCode |
 | [List Comprehensions](HackerRank/Python/Easy/List-Comprehensions/README.md) | Easy | Python | HackerRank |
 | [Contains Duplicate II](LeetCode/Java/easy/Contains-Duplicate-II/README.md) | Easy | Java | LeetCode |
 | [Contains Duplicate](LeetCode/Java/easy/Contains-Duplicate/README.md) | Easy | Java | LeetCode |
@@ -71,7 +72,6 @@
 | [Third Largest](gfg/Java/Easy/Third-Largest/README.md) | Easy | Java | gfg |
 | [Stock Buy and Sell – Max one Transaction Allowed](gfg/Java/Easy/Stock-Buy-and-Sell-–-Max-one-Transaction-Allowed/README.md) | Easy | Java | gfg |
 | [Array Search](gfg/Java/Basic/Array-Search/README.md) | Basic | Java | gfg |
-| [Two Sum](LeetCode/Python/easy/Two-Sum/README.md) | Easy | Python | LeetCode |
 
 ## 🗂 Repository
 
