@@ -10,9 +10,9 @@
 
 | Metric | Count |
 | --- | ---: |
-| 🏆 Total Solved | 18 |
+| 🏆 Total Solved | 19 |
 | 🔵 Basic | 1 |
-| 🟢 Easy | 15 |
+| 🟢 Easy | 16 |
 | 🟠 Medium | 2 |
 | 🔴 Hard | 0 |
 
@@ -20,10 +20,10 @@
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | █░░░░░░░░░░░░░░░░░░░ 6% | 1/18 |
-| 🟢 Easy | █████████████████░░░ 83% | 15/18 |
-| 🟠 Medium | ██░░░░░░░░░░░░░░░░░░ 11% | 2/18 |
-| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/18 |
+| 🔵 Basic | █░░░░░░░░░░░░░░░░░░░ 5% | 1/19 |
+| 🟢 Easy | █████████████████░░░ 84% | 16/19 |
+| 🟠 Medium | ██░░░░░░░░░░░░░░░░░░ 11% | 2/19 |
+| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/19 |
 
 ## 🔥 Coding Activity
 
@@ -34,6 +34,7 @@
 | Pattern | Problems |
 | --- | ---: |
 | [Hash Map](patterns/Hash%20Map.md) | 5 |
+| [Binary Search](patterns/Binary%20Search.md) | 1 |
 | [Monotonic Stack](patterns/Monotonic%20Stack.md) | 1 |
 | [Stack](patterns/Stack.md) | 1 |
 
@@ -46,7 +47,7 @@
 
 | Language | Problems |
 | --- | ---: |
-| Java | 14 |
+| Java | 15 |
 | Python | 3 |
 | C++ | 1 |
 
@@ -54,7 +55,7 @@
 
 | Platform | Problems |
 | --- | ---: |
-| LeetCode | 10 |
+| LeetCode | 11 |
 | gfg | 4 |
 | HackerRank | 4 |
 
@@ -62,6 +63,7 @@
 
 | Problem | Difficulty | Language | Platform |
 | --- | --- | --- | --- |
+| [Binary Search](LeetCode/Java/easy/Binary-Search/README.md) | Easy | Java | LeetCode |
 | [Single Number](LeetCode/Java/easy/Single-Number/README.md) | Easy | Java | LeetCode |
 | [List Comprehensions](HackerRank/Python/Easy/List-Comprehensions/README.md) | Easy | Python | HackerRank |
 | [Contains Duplicate II](LeetCode/Java/easy/Contains-Duplicate-II/README.md) | Easy | Java | LeetCode |
@@ -71,7 +73,6 @@
 | [Reverse Integer](LeetCode/Java/medium/Reverse-Integer/README.md) | Medium | Java | LeetCode |
 | [Third Largest](gfg/Java/Easy/Third-Largest/README.md) | Easy | Java | gfg |
 | [Stock Buy and Sell – Max one Transaction Allowed](gfg/Java/Easy/Stock-Buy-and-Sell-–-Max-one-Transaction-Allowed/README.md) | Easy | Java | gfg |
-| [Array Search](gfg/Java/Basic/Array-Search/README.md) | Basic | Java | gfg |
 
 ## 🗂 Repository
 

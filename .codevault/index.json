@@ -344,6 +344,28 @@
         ]
       },
       "solvedAt": "2026-09-27T18:17:36.349Z"
+    },
+    {
+      "path": "LeetCode/Java/easy/Binary-Search/Solution.java",
+      "metadata": {
+        "platform": "LeetCode",
+        "title": "Binary Search",
+        "slug": "binary-search",
+        "difficulty": "easy",
+        "language": "Java",
+        "url": "https://leetcode.com/problems/binary-search/submissions/2158566789/",
+        "solvedAt": "2026-09-30T19:54:37.006Z",
+        "patterns": [
+          "Binary Search"
+        ],
+        "topics": [],
+        "tags": [
+          "Binary Search"
+        ],
+        "timeComplexity": "O(log n)",
+        "spaceComplexity": "O(1)"
+      },
+      "solvedAt": "2026-09-30T19:54:37.006Z"
     }
   ]
 }
