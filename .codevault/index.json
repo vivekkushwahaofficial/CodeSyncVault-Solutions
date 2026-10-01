@@ -366,6 +366,22 @@
         "spaceComplexity": "O(1)"
       },
       "solvedAt": "2026-09-30T19:54:37.006Z"
+    },
+    {
+      "path": "LeetCode/Java/easy/Search-Insert-Position/Solution.java",
+      "metadata": {
+        "platform": "LeetCode",
+        "title": "Search Insert Position",
+        "slug": "search-insert-position",
+        "difficulty": "easy",
+        "language": "Java",
+        "url": "https://leetcode.com/problems/search-insert-position/submissions/2159264628/",
+        "solvedAt": "2026-10-01T14:08:43.778Z",
+        "patterns": [],
+        "topics": [],
+        "tags": []
+      },
+      "solvedAt": "2026-10-01T14:08:43.778Z"
     }
   ]
 }
