@@ -10,9 +10,9 @@
 
 | Metric | Count |
 | --- | ---: |
-| 🏆 Total Solved | 20 |
+| 🏆 Total Solved | 21 |
 | 🔵 Basic | 1 |
-| 🟢 Easy | 17 |
+| 🟢 Easy | 18 |
 | 🟠 Medium | 2 |
 | 🔴 Hard | 0 |
 
@@ -20,10 +20,10 @@
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | █░░░░░░░░░░░░░░░░░░░ 5% | 1/20 |
-| 🟢 Easy | █████████████████░░░ 85% | 17/20 |
-| 🟠 Medium | ██░░░░░░░░░░░░░░░░░░ 10% | 2/20 |
-| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/20 |
+| 🔵 Basic | █░░░░░░░░░░░░░░░░░░░ 5% | 1/21 |
+| 🟢 Easy | █████████████████░░░ 86% | 18/21 |
+| 🟠 Medium | ██░░░░░░░░░░░░░░░░░░ 10% | 2/21 |
+| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/21 |
 
 ## 🔥 Coding Activity
 
@@ -47,7 +47,7 @@
 
 | Language | Problems |
 | --- | ---: |
-| Java | 16 |
+| Java | 17 |
 | Python | 3 |
 | C++ | 1 |
 
@@ -55,7 +55,7 @@
 
 | Platform | Problems |
 | --- | ---: |
-| LeetCode | 12 |
+| LeetCode | 13 |
 | gfg | 4 |
 | HackerRank | 4 |
 
@@ -63,6 +63,7 @@
 
 | Problem | Difficulty | Language | Platform |
 | --- | --- | --- | --- |
+| [Find Smallest Letter Greater Than Target](LeetCode/Java/easy/Find-Smallest-Letter-Greater-Than-Target/README.md) | Easy | Java | LeetCode |
 | [Search Insert Position](LeetCode/Java/easy/Search-Insert-Position/README.md) | Easy | Java | LeetCode |
 | [Binary Search](LeetCode/Java/easy/Binary-Search/README.md) | Easy | Java | LeetCode |
 | [Single Number](LeetCode/Java/easy/Single-Number/README.md) | Easy | Java | LeetCode |
@@ -72,7 +73,6 @@
 | [Add Binary](LeetCode/Java/easy/Add-Binary/README.md) | Easy | Java | LeetCode |
 | [Roman to Integer](LeetCode/Java/easy/Roman-to-Integer/README.md) | Easy | Java | LeetCode |
 | [Reverse Integer](LeetCode/Java/medium/Reverse-Integer/README.md) | Medium | Java | LeetCode |
-| [Third Largest](gfg/Java/Easy/Third-Largest/README.md) | Easy | Java | gfg |
 
 ## 🗂 Repository
 

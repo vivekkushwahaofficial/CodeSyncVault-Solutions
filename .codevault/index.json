@@ -382,6 +382,22 @@
         "tags": []
       },
       "solvedAt": "2026-10-01T14:08:43.778Z"
+    },
+    {
+      "path": "LeetCode/Java/easy/Find-Smallest-Letter-Greater-Than-Target/Solution.java",
+      "metadata": {
+        "platform": "LeetCode",
+        "title": "Find Smallest Letter Greater Than Target",
+        "slug": "find-smallest-letter-greater-than-target",
+        "difficulty": "easy",
+        "language": "Java",
+        "url": "https://leetcode.com/problems/find-smallest-letter-greater-than-target/submissions/2161392131/",
+        "solvedAt": "2026-10-03T18:35:32.023Z",
+        "patterns": [],
+        "topics": [],
+        "tags": []
+      },
+      "solvedAt": "2026-10-03T18:35:32.023Z"
     }
   ]
 }
