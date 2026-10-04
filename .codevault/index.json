@@ -398,6 +398,22 @@
         "tags": []
       },
       "solvedAt": "2026-10-03T18:35:32.023Z"
+    },
+    {
+      "path": "LeetCode/Java/medium/Search-a-2D-Matrix/Solution.java",
+      "metadata": {
+        "platform": "LeetCode",
+        "title": "Search a 2D Matrix",
+        "slug": "search-a-2d-matrix",
+        "difficulty": "medium",
+        "language": "Java",
+        "url": "https://leetcode.com/problems/search-a-2d-matrix/submissions/2162457177/",
+        "solvedAt": "2026-10-04T18:54:23.575Z",
+        "patterns": [],
+        "topics": [],
+        "tags": []
+      },
+      "solvedAt": "2026-10-04T18:54:23.575Z"
     }
   ]
 }
