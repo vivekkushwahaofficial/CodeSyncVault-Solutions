@@ -414,6 +414,26 @@
         "tags": []
       },
       "solvedAt": "2026-10-04T18:54:23.575Z"
+    },
+    {
+      "path": "LeetCode/Java/medium/Peak-Index-in-a-Mountain-Array/Solution.java",
+      "metadata": {
+        "platform": "LeetCode",
+        "title": "Peak Index in a Mountain Array",
+        "slug": "peak-index-in-a-mountain-array",
+        "difficulty": "medium",
+        "language": "Java",
+        "url": "https://leetcode.com/problems/peak-index-in-a-mountain-array/submissions/2163469733/",
+        "solvedAt": "2026-10-05T18:05:04.410Z",
+        "patterns": [],
+        "topics": [
+          "Array"
+        ],
+        "tags": [
+          "Array"
+        ]
+      },
+      "solvedAt": "2026-10-05T18:05:04.410Z"
     }
   ]
 }

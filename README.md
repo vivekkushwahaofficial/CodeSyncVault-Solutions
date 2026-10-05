@@ -10,20 +10,20 @@
 
 | Metric | Count |
 | --- | ---: |
-| 🏆 Total Solved | 22 |
+| 🏆 Total Solved | 23 |
 | 🔵 Basic | 1 |
 | 🟢 Easy | 18 |
-| 🟠 Medium | 3 |
+| 🟠 Medium | 4 |
 | 🔴 Hard | 0 |
 
 ## 📈 Progress
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | █░░░░░░░░░░░░░░░░░░░ 5% | 1/22 |
-| 🟢 Easy | ████████████████░░░░ 82% | 18/22 |
-| 🟠 Medium | ███░░░░░░░░░░░░░░░░░ 14% | 3/22 |
-| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/22 |
+| 🔵 Basic | █░░░░░░░░░░░░░░░░░░░ 4% | 1/23 |
+| 🟢 Easy | ████████████████░░░░ 78% | 18/23 |
+| 🟠 Medium | ███░░░░░░░░░░░░░░░░░ 17% | 4/23 |
+| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/23 |
 
 ## 🔥 Coding Activity
 
@@ -40,14 +40,14 @@
 
 | Topic | Problems |
 | --- | ---: |
+| [Array](topics/Array.md) | 3 |
 | [Math](topics/Math.md) | 3 |
-| [Array](topics/Array.md) | 2 |
 
 ## 💻 Languages
 
 | Language | Problems |
 | --- | ---: |
-| Java | 18 |
+| Java | 19 |
 | Python | 3 |
 | C++ | 1 |
 
@@ -55,7 +55,7 @@
 
 | Platform | Problems |
 | --- | ---: |
-| LeetCode | 14 |
+| LeetCode | 15 |
 | gfg | 4 |
 | HackerRank | 4 |
 
@@ -63,6 +63,7 @@
 
 | Problem | Difficulty | Language | Platform |
 | --- | --- | --- | --- |
+| [Peak Index in a Mountain Array](LeetCode/Java/medium/Peak-Index-in-a-Mountain-Array/README.md) | Medium | Java | LeetCode |
 | [Search a 2D Matrix](LeetCode/Java/medium/Search-a-2D-Matrix/README.md) | Medium | Java | LeetCode |
 | [Find Smallest Letter Greater Than Target](LeetCode/Java/easy/Find-Smallest-Letter-Greater-Than-Target/README.md) | Easy | Java | LeetCode |
 | [Search Insert Position](LeetCode/Java/easy/Search-Insert-Position/README.md) | Easy | Java | LeetCode |
@@ -72,7 +73,6 @@
 | [Contains Duplicate II](LeetCode/Java/easy/Contains-Duplicate-II/README.md) | Easy | Java | LeetCode |
 | [Contains Duplicate](LeetCode/Java/easy/Contains-Duplicate/README.md) | Easy | Java | LeetCode |
 | [Add Binary](LeetCode/Java/easy/Add-Binary/README.md) | Easy | Java | LeetCode |
-| [Roman to Integer](LeetCode/Java/easy/Roman-to-Integer/README.md) | Easy | Java | LeetCode |
 
 ## 🗂 Repository
 
