@@ -10,9 +10,9 @@
 
 | Metric | Count |
 | --- | ---: |
-| 🏆 Total Solved | 23 |
+| 🏆 Total Solved | 24 |
 | 🔵 Basic | 1 |
-| 🟢 Easy | 18 |
+| 🟢 Easy | 19 |
 | 🟠 Medium | 4 |
 | 🔴 Hard | 0 |
 
@@ -20,10 +20,10 @@
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | █░░░░░░░░░░░░░░░░░░░ 4% | 1/23 |
-| 🟢 Easy | ████████████████░░░░ 78% | 18/23 |
-| 🟠 Medium | ███░░░░░░░░░░░░░░░░░ 17% | 4/23 |
-| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/23 |
+| 🔵 Basic | █░░░░░░░░░░░░░░░░░░░ 4% | 1/24 |
+| 🟢 Easy | ████████████████░░░░ 79% | 19/24 |
+| 🟠 Medium | ███░░░░░░░░░░░░░░░░░ 17% | 4/24 |
+| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/24 |
 
 ## 🔥 Coding Activity
 
@@ -47,7 +47,7 @@
 
 | Language | Problems |
 | --- | ---: |
-| Java | 19 |
+| Java | 20 |
 | Python | 3 |
 | C++ | 1 |
 
@@ -55,7 +55,7 @@
 
 | Platform | Problems |
 | --- | ---: |
-| LeetCode | 15 |
+| LeetCode | 16 |
 | gfg | 4 |
 | HackerRank | 4 |
 
@@ -63,6 +63,7 @@
 
 | Problem | Difficulty | Language | Platform |
 | --- | --- | --- | --- |
+| [Valid Perfect Square](LeetCode/Java/easy/Valid-Perfect-Square/README.md) | Easy | Java | LeetCode |
 | [Peak Index in a Mountain Array](LeetCode/Java/medium/Peak-Index-in-a-Mountain-Array/README.md) | Medium | Java | LeetCode |
 | [Search a 2D Matrix](LeetCode/Java/medium/Search-a-2D-Matrix/README.md) | Medium | Java | LeetCode |
 | [Find Smallest Letter Greater Than Target](LeetCode/Java/easy/Find-Smallest-Letter-Greater-Than-Target/README.md) | Easy | Java | LeetCode |
@@ -72,7 +73,6 @@
 | [List Comprehensions](HackerRank/Python/Easy/List-Comprehensions/README.md) | Easy | Python | HackerRank |
 | [Contains Duplicate II](LeetCode/Java/easy/Contains-Duplicate-II/README.md) | Easy | Java | LeetCode |
 | [Contains Duplicate](LeetCode/Java/easy/Contains-Duplicate/README.md) | Easy | Java | LeetCode |
-| [Add Binary](LeetCode/Java/easy/Add-Binary/README.md) | Easy | Java | LeetCode |
 
 ## 🗂 Repository
 
