@@ -33,8 +33,8 @@
 
 | Pattern | Problems |
 | --- | ---: |
-| [Hash Map](patterns/Hash%20Map.md) | 5 |
-| [Binary Search](patterns/Binary%20Search.md) | 1 |
+| [Binary Search](patterns/Binary%20Search.md) | 6 |
+| [Hash Map](patterns/Hash%20Map.md) | 4 |
 | [Monotonic Stack](patterns/Monotonic%20Stack.md) | 1 |
 | [Stack](patterns/Stack.md) | 1 |
 

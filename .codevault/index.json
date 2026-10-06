@@ -166,15 +166,9 @@
         "language": "Python",
         "url": "https://leetcode.com/problems/two-sum/submissions/2147337359/",
         "solvedAt": "2026-09-20T05:20:47.692Z",
-        "patterns": [
-          "Hash Map"
-        ],
+        "patterns": [],
         "topics": [],
-        "tags": [
-          "Hash Map"
-        ],
-        "timeComplexity": "O(n)",
-        "spaceComplexity": "O(n)"
+        "tags": []
       },
       "solvedAt": "2026-09-20T05:20:47.692Z"
     },
@@ -377,9 +371,15 @@
         "language": "Java",
         "url": "https://leetcode.com/problems/search-insert-position/submissions/2159264628/",
         "solvedAt": "2026-10-01T14:08:43.778Z",
-        "patterns": [],
+        "patterns": [
+          "Binary Search"
+        ],
         "topics": [],
-        "tags": []
+        "tags": [
+          "Binary Search"
+        ],
+        "timeComplexity": "O(log n)",
+        "spaceComplexity": "O(1)"
       },
       "solvedAt": "2026-10-01T14:08:43.778Z"
     },
@@ -393,9 +393,15 @@
         "language": "Java",
         "url": "https://leetcode.com/problems/find-smallest-letter-greater-than-target/submissions/2161392131/",
         "solvedAt": "2026-10-03T18:35:32.023Z",
-        "patterns": [],
+        "patterns": [
+          "Binary Search"
+        ],
         "topics": [],
-        "tags": []
+        "tags": [
+          "Binary Search"
+        ],
+        "timeComplexity": "O(log n)",
+        "spaceComplexity": "O(1)"
       },
       "solvedAt": "2026-10-03T18:35:32.023Z"
     },
@@ -409,9 +415,15 @@
         "language": "Java",
         "url": "https://leetcode.com/problems/search-a-2d-matrix/submissions/2162457177/",
         "solvedAt": "2026-10-04T18:54:23.575Z",
-        "patterns": [],
+        "patterns": [
+          "Binary Search"
+        ],
         "topics": [],
-        "tags": []
+        "tags": [
+          "Binary Search"
+        ],
+        "timeComplexity": "O(log n)",
+        "spaceComplexity": "O(1)"
       },
       "solvedAt": "2026-10-04T18:54:23.575Z"
     },
@@ -425,13 +437,18 @@
         "language": "Java",
         "url": "https://leetcode.com/problems/peak-index-in-a-mountain-array/submissions/2163469733/",
         "solvedAt": "2026-10-05T18:05:04.410Z",
-        "patterns": [],
+        "patterns": [
+          "Binary Search"
+        ],
         "topics": [
           "Array"
         ],
         "tags": [
+          "Binary Search",
           "Array"
-        ]
+        ],
+        "timeComplexity": "O(log n)",
+        "spaceComplexity": "O(1)"
       },
       "solvedAt": "2026-10-05T18:05:04.410Z"
     },
@@ -445,9 +462,15 @@
         "language": "Java",
         "url": "https://leetcode.com/problems/valid-perfect-square/submissions/2164054811/",
         "solvedAt": "2026-10-06T09:11:58.509Z",
-        "patterns": [],
+        "patterns": [
+          "Binary Search"
+        ],
         "topics": [],
-        "tags": []
+        "tags": [
+          "Binary Search"
+        ],
+        "timeComplexity": "O(log n)",
+        "spaceComplexity": "O(1)"
       },
       "solvedAt": "2026-10-06T09:11:58.509Z"
     },
