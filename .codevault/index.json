@@ -489,6 +489,30 @@
         "tags": []
       },
       "solvedAt": "2026-10-06T18:31:14.546Z"
+    },
+    {
+      "path": "LeetCode/Java/medium/Merge-Intervals/Solution.java",
+      "metadata": {
+        "platform": "LeetCode",
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "difficulty": "medium",
+        "language": "Java",
+        "url": "https://leetcode.com/problems/merge-intervals/submissions/2164725076/",
+        "tags": [
+          "Array",
+          "Sorting",
+          "Quicksort"
+        ],
+        "solvedAt": "2026-10-06T21:40:46.226Z",
+        "patterns": [
+          "Sorting"
+        ],
+        "topics": [
+          "Array"
+        ]
+      },
+      "solvedAt": "2026-10-06T21:40:46.226Z"
     }
   ]
 }
