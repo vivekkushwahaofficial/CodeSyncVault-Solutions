@@ -1,6 +1,6 @@
 # Binary Search
 
-> 6 problems classified under this pattern.
+> 7 problems classified under this pattern.
 
 [← Back to README](../README.md) · [All Problems](../docs/AllProblems.md)
 
@@ -14,6 +14,7 @@
 | Search a 2D Matrix | Medium | Binary Search | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Search-a-2D-Matrix/README.md) |
 | Peak Index in a Mountain Array | Medium | Binary Search, Array | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Peak-Index-in-a-Mountain-Array/README.md) |
 | Valid Perfect Square | Easy | Binary Search | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Valid-Perfect-Square/README.md) |
+| Binary Search | Basic | Binary Search, Array, Math, Sorting | Java | GeeksforGeeks | [View Solution](../GeeksforGeeks/Java/Basic/Binary-Search/README.md) |
 
 ---
 

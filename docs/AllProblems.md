@@ -1,6 +1,6 @@
 # 📚 All Coding Problems
 
-> **26** problems solved across all supported platforms.
+> **27** problems solved across all supported platforms.
 
 [⬅ Back to Portfolio README](../README.md)
 
@@ -10,6 +10,7 @@
 
 | Problem | Difficulty | Primary Tags | Language | Platform | Solution |
 | --- | --- | --- | --- | --- | --- |
+| Binary Search | Basic | Binary Search, Array, Math, Sorting | Java | GeeksforGeeks | [View Solution](../GeeksforGeeks/Java/Basic/Binary-Search/README.md) |
 | Array Search | Basic | Array | Java | gfg | [View Solution](../gfg/Java/Basic/Array-Search/README.md) |
 | Convert To Zig-Zag | Easy | — | Java | gfg | [View Solution](../gfg/Java/Easy/Convert-To-Zig-Zag/README.md) |
 | Next Greater Element | Medium | Monotonic Stack, Stack | Java | gfg | [View Solution](../gfg/Java/Medium/Next-Greater-Element/README.md) |
