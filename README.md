@@ -8,17 +8,10 @@
 
 ## 📑 Table of Contents
 
-- [📊 Overview](#-overview)
-- [📈 Progress](#-progress)
-- [🔥 Coding Activity](#-coding-activity)
-- [🧩 Pattern Index](#-pattern-index)
-- [📚 Topic Index](#-topic-index)
-- [💻 Languages](#-languages)
-- [🌐 Platforms](#-platforms)
-- [🕒 Recently Solved](#-recently-solved)
 - [📚 Solution Documentation](#-solution-documentation)
 - [📈 Detailed Statistics](#-detailed-statistics)
-- [⚙️ Workflow & Automation](#-workflow--automation)
+- [⚙️ Workflow & Automation](#️-workflow--automation)
+- [🗂 Repository](#-repository)
 
 ## 📊 Overview
 
