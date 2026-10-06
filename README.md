@@ -65,7 +65,7 @@
 | Platform | Problems |
 | --- | ---: |
 | LeetCode | 16 |
-| gfg | 5 |
+| GeeksforGeeks | 5 |
 | HackerRank | 4 |
 
 ## 🕒 Recently Solved
