@@ -1,7 +1,17 @@
 # Array
 
+> 3 problems classified under this topic.
+
+[← Back to README](../README.md) · [All Problems](../docs/AllProblems.md)
+
 ## Problems
 
-- [Array Search](../gfg/Java/Basic/Array-Search/README.md) — gfg · Java · Basic
-- [Remove Duplicates from Sorted Array](../LeetCode/Java/easy/Remove-Duplicates-from-Sorted-Array/README.md) — LeetCode · Java · easy
-- [Peak Index in a Mountain Array](../LeetCode/Java/medium/Peak-Index-in-a-Mountain-Array/README.md) — LeetCode · Java · medium
+| Problem | Difficulty | Primary Tags | Language | Platform | Solution |
+| --- | --- | --- | --- | --- | --- |
+| Array Search | Basic | Array | Java | GeeksforGeeks | [View Solution](../gfg/Java/Basic/Array-Search/README.md) |
+| Remove Duplicates from Sorted Array | Easy | Array, Sorting | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Remove-Duplicates-from-Sorted-Array/README.md) |
+| Peak Index in a Mountain Array | Medium | Binary Search, Array | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Peak-Index-in-a-Mountain-Array/README.md) |
+
+---
+
+Generated automatically by **CodeSyncVault**.
