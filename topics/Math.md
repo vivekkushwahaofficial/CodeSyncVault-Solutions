@@ -1,6 +1,6 @@
 # Math
 
-> 4 problems classified under this topic.
+> 3 problems classified under this topic.
 
 [← Back to README](../README.md) · [All Problems](../docs/AllProblems.md)
 
@@ -11,7 +11,6 @@
 | Reverse Integer | Medium | Math | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Reverse-Integer/README.md) |
 | Roman to Integer | Easy | Math | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Roman-to-Integer/README.md) |
 | Single Number | Easy | Math | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Single-Number/README.md) |
-| Binary Search | Basic | Binary Search, Array, Math, Sorting | Java | GeeksforGeeks | [View Solution](../GeeksforGeeks/Java/Basic/Binary-Search/README.md) |
 
 ---
 

@@ -513,34 +513,6 @@
         ]
       },
       "solvedAt": "2026-10-06T21:40:46.226Z"
-    },
-    {
-      "path": "GeeksforGeeks/Java/Basic/Binary-Search/Solution.java",
-      "metadata": {
-        "platform": "GeeksforGeeks",
-        "title": "Binary Search",
-        "slug": "who-will-win-1587115621",
-        "difficulty": "Basic",
-        "language": "Java",
-        "url": "https://www.geeksforgeeks.org/problems/who-will-win-1587115621/1",
-        "solvedAt": "2026-10-06T21:46:49.843Z",
-        "patterns": [
-          "Binary Search"
-        ],
-        "topics": [
-          "Array",
-          "Math"
-        ],
-        "tags": [
-          "Binary Search",
-          "Array",
-          "Math",
-          "Sorting"
-        ],
-        "timeComplexity": "O(log n)",
-        "spaceComplexity": "O(1)"
-      },
-      "solvedAt": "2026-10-06T21:46:49.843Z"
     }
   ]
 }
