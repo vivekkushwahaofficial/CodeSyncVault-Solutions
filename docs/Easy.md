@@ -1,6 +1,6 @@
 # 🟢 Easy Problems
 
-**Total Problems Solved:** 20
+**Total Problems Solved:** 21
 
 [⬅ Back to Portfolio README](../README.md) | [📚 All Problems](AllProblems.md) | [📈 Statistics](../stats/progress.md)
 
@@ -9,6 +9,7 @@
 | Problem | Difficulty | Primary Tags | Language | Platform | Solution |
 | --- | --- | --- | --- | --- | --- |
 | Convert To Zig-Zag | Easy | — | Java | gfg | [View Solution](../gfg/Java/Easy/Convert-To-Zig-Zag/README.md) |
+| Missing And Repeating | Easy | Array, Math | Java | gfg | [View Solution](../gfg/Java/Easy/Missing-And-Repeating/README.md) |
 | Stock Buy and Sell – Max one Transaction Allowed | Easy | — | Java | gfg | [View Solution](../gfg/Java/Easy/Stock-Buy-and-Sell-%E2%80%93-Max-one-Transaction-Allowed/README.md) |
 | Third Largest | Easy | — | Java | gfg | [View Solution](../gfg/Java/Easy/Third-Largest/README.md) |
 |  Java Stdin and Stdout I | Easy | — | Java | HackerRank | [View Solution](../HackerRank/Java/Easy/Java-Stdin-and-Stdout-I/README.md) |

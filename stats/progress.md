@@ -10,9 +10,9 @@
 
 | Metric | Count | Percentage |
 | --- | ---: | ---: |
-| 🏆 Total Solved | 26 | 100% |
+| 🏆 Total Solved | 27 | 100% |
 | 🔵 Basic | 1 | 4% |
-| 🟢 Easy | 20 | 77% |
+| 🟢 Easy | 21 | 78% |
 | 🟠 Medium | 5 | 19% |
 | 🔴 Hard | 0 | 0% |
 
@@ -20,24 +20,24 @@
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | █░░░░░░░░░░░░░░░░░░░ 4% | 1/26 |
-| 🟢 Easy | ███████████████░░░░░ 77% | 20/26 |
-| 🟠 Medium | ████░░░░░░░░░░░░░░░░ 19% | 5/26 |
-| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/26 |
+| 🔵 Basic | █░░░░░░░░░░░░░░░░░░░ 4% | 1/27 |
+| 🟢 Easy | ████████████████░░░░ 78% | 21/27 |
+| 🟠 Medium | ████░░░░░░░░░░░░░░░░ 19% | 5/27 |
+| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/27 |
 
 ## 🌐 Platform Distribution
 
 | Platform | Problems |
 | --- | ---: |
 | LeetCode | 17 |
-| gfg | 5 |
+| gfg | 6 |
 | HackerRank | 4 |
 
 ## 💻 Language Distribution
 
 | Language | Problems |
 | --- | ---: |
-| Java | 22 |
+| Java | 23 |
 | Python | 3 |
 | C++ | 1 |
 
@@ -55,8 +55,8 @@
 
 | Topic | Problems |
 | --- | ---: |
-| Array | 4 |
-| Math | 3 |
+| Array | 5 |
+| Math | 4 |
 
 ---
 

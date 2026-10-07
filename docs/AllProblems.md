@@ -1,6 +1,6 @@
 # 📚 All Coding Problems
 
-> **26** problems solved across all supported platforms.
+> **27** problems solved across all supported platforms.
 
 [⬅ Back to Portfolio README](../README.md)
 
@@ -12,6 +12,7 @@
 | --- | --- | --- | --- | --- | --- |
 | Array Search | Basic | Array | Java | gfg | [View Solution](../gfg/Java/Basic/Array-Search/README.md) |
 | Convert To Zig-Zag | Easy | — | Java | gfg | [View Solution](../gfg/Java/Easy/Convert-To-Zig-Zag/README.md) |
+| Missing And Repeating | Easy | Array, Math | Java | gfg | [View Solution](../gfg/Java/Easy/Missing-And-Repeating/README.md) |
 | Next Greater Element | Medium | Monotonic Stack, Stack | Java | gfg | [View Solution](../gfg/Java/Medium/Next-Greater-Element/README.md) |
 | Stock Buy and Sell – Max one Transaction Allowed | Easy | — | Java | gfg | [View Solution](../gfg/Java/Easy/Stock-Buy-and-Sell-%E2%80%93-Max-one-Transaction-Allowed/README.md) |
 | Third Largest | Easy | — | Java | gfg | [View Solution](../gfg/Java/Easy/Third-Largest/README.md) |

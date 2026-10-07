@@ -513,6 +513,28 @@
         ]
       },
       "solvedAt": "2026-10-06T21:40:46.226Z"
+    },
+    {
+      "path": "gfg/Java/Easy/Missing-And-Repeating/Solution.java",
+      "metadata": {
+        "platform": "gfg",
+        "title": "Missing And Repeating",
+        "slug": "find-missing-and-repeating2512",
+        "difficulty": "Easy",
+        "language": "Java",
+        "url": "https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1",
+        "solvedAt": "2026-10-07T06:50:49.610Z",
+        "patterns": [],
+        "topics": [
+          "Array",
+          "Math"
+        ],
+        "tags": [
+          "Array",
+          "Math"
+        ]
+      },
+      "solvedAt": "2026-10-07T06:50:49.610Z"
     }
   ]
 }
