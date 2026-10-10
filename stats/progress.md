@@ -47,16 +47,17 @@
 | --- | ---: |
 | Binary Search | 6 |
 | Hash Map | 4 |
+| Sorting | 2 |
 | Monotonic Stack | 1 |
-| Sorting | 1 |
 | Stack | 1 |
+| Two Pointer | 1 |
 
 ## 📚 Topic Distribution
 
 | Topic | Problems |
 | --- | ---: |
-| Array | 5 |
-| Math | 4 |
+| Array | 3 |
+| Math | 3 |
 
 ---
 

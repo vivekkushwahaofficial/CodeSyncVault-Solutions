@@ -42,16 +42,17 @@
 | --- | ---: |
 | [Binary Search](patterns/Binary%20Search.md) | 6 |
 | [Hash Map](patterns/Hash%20Map.md) | 4 |
+| [Sorting](patterns/Sorting.md) | 2 |
 | [Monotonic Stack](patterns/Monotonic%20Stack.md) | 1 |
-| [Sorting](patterns/Sorting.md) | 1 |
 | [Stack](patterns/Stack.md) | 1 |
+| [Two Pointer](patterns/Two%20Pointer.md) | 1 |
 
 ## 📚 Topic Index
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](topics/Array.md) | 5 |
-| [Math](topics/Math.md) | 4 |
+| [Array](topics/Array.md) | 3 |
+| [Math](topics/Math.md) | 3 |
 
 ## 💻 Languages
 
