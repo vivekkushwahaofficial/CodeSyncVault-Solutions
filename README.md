@@ -2,7 +2,7 @@
 
 > Automatically organized, analyzed, and updated by **CodeSyncVault**.
 
-[![Total Solved](https://img.shields.io/badge/Total%20Solved-27-6e40c9)](docs/AllProblems.md) [![Basic](https://img.shields.io/badge/Basic-1-4c9aff)](docs/Basic.md) [![Easy](https://img.shields.io/badge/Easy-21-2ea44f)](docs/Easy.md) [![Medium](https://img.shields.io/badge/Medium-5-f9a825)](docs/Medium.md) [![Hard](https://img.shields.io/badge/Hard-0-d73a49)](docs/Hard.md) [![Powered by CodeSyncVault](https://img.shields.io/badge/Powered%20by-CodeSyncVault-6e40c9)](https://github.com/vivekkushwahaofficial/CodeSyncVault)
+[![Total Solved](https://img.shields.io/badge/Total%20Solved-28-6e40c9)](docs/AllProblems.md) [![Basic](https://img.shields.io/badge/Basic-1-4c9aff)](docs/Basic.md) [![Easy](https://img.shields.io/badge/Easy-22-2ea44f)](docs/Easy.md) [![Medium](https://img.shields.io/badge/Medium-5-f9a825)](docs/Medium.md) [![Hard](https://img.shields.io/badge/Hard-0-d73a49)](docs/Hard.md) [![Powered by CodeSyncVault](https://img.shields.io/badge/Powered%20by-CodeSyncVault-6e40c9)](https://github.com/vivekkushwahaofficial/CodeSyncVault)
 
 ---
 
@@ -17,9 +17,9 @@
 
 | Metric | Count |
 | --- | ---: |
-| 🏆 Total Solved | 27 |
+| 🏆 Total Solved | 28 |
 | 🔵 Basic | 1 |
-| 🟢 Easy | 21 |
+| 🟢 Easy | 22 |
 | 🟠 Medium | 5 |
 | 🔴 Hard | 0 |
 
@@ -27,10 +27,10 @@
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | █░░░░░░░░░░░░░░░░░░░ 4% | 1/27 |
-| 🟢 Easy | ████████████████░░░░ 78% | 21/27 |
-| 🟠 Medium | ████░░░░░░░░░░░░░░░░ 19% | 5/27 |
-| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/27 |
+| 🔵 Basic | █░░░░░░░░░░░░░░░░░░░ 4% | 1/28 |
+| 🟢 Easy | ████████████████░░░░ 79% | 22/28 |
+| 🟠 Medium | ████░░░░░░░░░░░░░░░░ 18% | 5/28 |
+| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/28 |
 
 ## 🔥 Coding Activity
 
@@ -51,14 +51,14 @@
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](topics/Array.md) | 3 |
+| [Array](topics/Array.md) | 4 |
 | [Math](topics/Math.md) | 3 |
 
 ## 💻 Languages
 
 | Language | Problems |
 | --- | ---: |
-| Java | 23 |
+| Java | 24 |
 | Python | 3 |
 | C++ | 1 |
 
@@ -66,7 +66,7 @@
 
 | Platform | Problems |
 | --- | ---: |
-| LeetCode | 17 |
+| LeetCode | 18 |
 | GeeksforGeeks | 6 |
 | HackerRank | 4 |
 
@@ -74,6 +74,7 @@
 
 | Problem | Difficulty | Language | Platform | Date |
 | --- | --- | --- | --- | --- |
+| [Replace Elements with Greatest Element on Right Side](LeetCode/Java/easy/Replace-Elements-with-Greatest-Element-on-Right-Side/README.md) | Easy | Java | LeetCode | 2026-10-10 |
 | [Missing And Repeating](gfg/Java/Easy/Missing-And-Repeating/README.md) | Easy | Java | GeeksforGeeks | 2026-10-07 |
 | [Merge Intervals](LeetCode/Java/medium/Merge-Intervals/README.md) | Medium | Java | LeetCode | 2026-10-06 |
 | [Convert To Zig-Zag](gfg/Java/Easy/Convert-To-Zig-Zag/README.md) | Easy | Java | GeeksforGeeks | 2026-10-06 |
@@ -83,7 +84,6 @@
 | [Find Smallest Letter Greater Than Target](LeetCode/Java/easy/Find-Smallest-Letter-Greater-Than-Target/README.md) | Easy | Java | LeetCode | 2026-10-03 |
 | [Search Insert Position](LeetCode/Java/easy/Search-Insert-Position/README.md) | Easy | Java | LeetCode | 2026-10-01 |
 | [Binary Search](LeetCode/Java/easy/Binary-Search/README.md) | Easy | Java | LeetCode | 2026-09-30 |
-| [Single Number](LeetCode/Java/easy/Single-Number/README.md) | Easy | Java | LeetCode | 2026-09-27 |
 
 ## 📚 Solution Documentation
 

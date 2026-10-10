@@ -1,6 +1,6 @@
 # 📚 All Coding Problems
 
-> **27** problems solved across all supported platforms.
+> **28** problems solved across all supported platforms.
 
 [⬅ Back to Portfolio README](../README.md)
 
@@ -28,6 +28,7 @@
 | Merge Intervals | Medium | Array, Sorting, Quicksort | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Merge-Intervals/README.md) |
 | Peak Index in a Mountain Array | Medium | Binary Search, Array | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Peak-Index-in-a-Mountain-Array/README.md) |
 | Remove Duplicates from Sorted Array | Easy | Array, Sorting, Two Pointer | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Remove-Duplicates-from-Sorted-Array/README.md) |
+| Replace Elements with Greatest Element on Right Side | Easy | Array | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Replace-Elements-with-Greatest-Element-on-Right-Side/README.md) |
 | Reverse Integer | Medium | Math | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Reverse-Integer/README.md) |
 | Roman to Integer | Easy | Math | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Roman-to-Integer/README.md) |
 | Search a 2D Matrix | Medium | Binary Search | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Search-a-2D-Matrix/README.md) |
