@@ -1,6 +1,6 @@
 # 📚 All Coding Problems
 
-> **28** problems solved across all supported platforms.
+> **29** problems solved across all supported platforms.
 
 [⬅ Back to Portfolio README](../README.md)
 
@@ -25,6 +25,7 @@
 | Contains Duplicate | Easy | Hash Map | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Contains-Duplicate/README.md) |
 | Contains Duplicate II | Easy | Hash Map | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Contains-Duplicate-II/README.md) |
 | Find Smallest Letter Greater Than Target | Easy | Binary Search | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Find-Smallest-Letter-Greater-Than-Target/README.md) |
+| Maximum Subarray | Medium | Array, Divide and Conquer, Dynamic Programming, Sliding Window, Math, Subarray | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Maximum-Subarray/README.md) |
 | Merge Intervals | Medium | Array, Sorting, Quicksort | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Merge-Intervals/README.md) |
 | Peak Index in a Mountain Array | Medium | Binary Search, Array | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Peak-Index-in-a-Mountain-Array/README.md) |
 | Remove Duplicates from Sorted Array | Easy | Array, Sorting, Two Pointer | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Remove-Duplicates-from-Sorted-Array/README.md) |

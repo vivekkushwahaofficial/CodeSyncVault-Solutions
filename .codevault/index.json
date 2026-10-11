@@ -556,6 +556,36 @@
         ]
       },
       "solvedAt": "2026-10-10T17:40:53.111Z"
+    },
+    {
+      "path": "LeetCode/Java/medium/Maximum-Subarray/Solution.java",
+      "metadata": {
+        "platform": "LeetCode",
+        "title": "Maximum Subarray",
+        "slug": "maximum-subarray",
+        "difficulty": "medium",
+        "language": "Java",
+        "url": "https://leetcode.com/problems/maximum-subarray/submissions/2169320454/",
+        "tags": [
+          "Array",
+          "Divide and Conquer",
+          "Dynamic Programming",
+          "Sliding Window",
+          "Math",
+          "Subarray"
+        ],
+        "solvedAt": "2026-10-11T13:52:25.253Z",
+        "patterns": [
+          "Dynamic Programming",
+          "Sliding Window"
+        ],
+        "topics": [
+          "Array",
+          "Math"
+        ],
+        "timeComplexity": "O(n)"
+      },
+      "solvedAt": "2026-10-11T13:52:25.253Z"
     }
   ]
 }

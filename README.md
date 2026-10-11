@@ -2,7 +2,7 @@
 
 > Automatically organized, analyzed, and updated by **CodeSyncVault**.
 
-[![Total Solved](https://img.shields.io/badge/Total%20Solved-28-6e40c9)](docs/AllProblems.md) [![Basic](https://img.shields.io/badge/Basic-1-4c9aff)](docs/Basic.md) [![Easy](https://img.shields.io/badge/Easy-22-2ea44f)](docs/Easy.md) [![Medium](https://img.shields.io/badge/Medium-5-f9a825)](docs/Medium.md) [![Hard](https://img.shields.io/badge/Hard-0-d73a49)](docs/Hard.md) [![Powered by CodeSyncVault](https://img.shields.io/badge/Powered%20by-CodeSyncVault-6e40c9)](https://github.com/vivekkushwahaofficial/CodeSyncVault)
+[![Total Solved](https://img.shields.io/badge/Total%20Solved-29-6e40c9)](docs/AllProblems.md) [![Basic](https://img.shields.io/badge/Basic-1-4c9aff)](docs/Basic.md) [![Easy](https://img.shields.io/badge/Easy-22-2ea44f)](docs/Easy.md) [![Medium](https://img.shields.io/badge/Medium-6-f9a825)](docs/Medium.md) [![Hard](https://img.shields.io/badge/Hard-0-d73a49)](docs/Hard.md) [![Powered by CodeSyncVault](https://img.shields.io/badge/Powered%20by-CodeSyncVault-6e40c9)](https://github.com/vivekkushwahaofficial/CodeSyncVault)
 
 ---
 
@@ -17,20 +17,20 @@
 
 | Metric | Count |
 | --- | ---: |
-| 🏆 Total Solved | 28 |
+| 🏆 Total Solved | 29 |
 | 🔵 Basic | 1 |
 | 🟢 Easy | 22 |
-| 🟠 Medium | 5 |
+| 🟠 Medium | 6 |
 | 🔴 Hard | 0 |
 
 ## 📈 Progress
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | █░░░░░░░░░░░░░░░░░░░ 4% | 1/28 |
-| 🟢 Easy | ████████████████░░░░ 79% | 22/28 |
-| 🟠 Medium | ████░░░░░░░░░░░░░░░░ 18% | 5/28 |
-| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/28 |
+| 🔵 Basic | █░░░░░░░░░░░░░░░░░░░ 3% | 1/29 |
+| 🟢 Easy | ███████████████░░░░░ 76% | 22/29 |
+| 🟠 Medium | ████░░░░░░░░░░░░░░░░ 21% | 6/29 |
+| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/29 |
 
 ## 🔥 Coding Activity
 
@@ -43,7 +43,9 @@
 | [Binary Search](patterns/Binary%20Search.md) | 6 |
 | [Hash Map](patterns/Hash%20Map.md) | 4 |
 | [Sorting](patterns/Sorting.md) | 2 |
+| [Dynamic Programming](patterns/Dynamic%20Programming.md) | 1 |
 | [Monotonic Stack](patterns/Monotonic%20Stack.md) | 1 |
+| [Sliding Window](patterns/Sliding%20Window.md) | 1 |
 | [Stack](patterns/Stack.md) | 1 |
 | [Two Pointer](patterns/Two%20Pointer.md) | 1 |
 
@@ -51,14 +53,14 @@
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](topics/Array.md) | 4 |
-| [Math](topics/Math.md) | 3 |
+| [Array](topics/Array.md) | 5 |
+| [Math](topics/Math.md) | 4 |
 
 ## 💻 Languages
 
 | Language | Problems |
 | --- | ---: |
-| Java | 24 |
+| Java | 25 |
 | Python | 3 |
 | C++ | 1 |
 
@@ -66,7 +68,7 @@
 
 | Platform | Problems |
 | --- | ---: |
-| LeetCode | 18 |
+| LeetCode | 19 |
 | GeeksforGeeks | 6 |
 | HackerRank | 4 |
 
@@ -74,6 +76,7 @@
 
 | Problem | Difficulty | Language | Platform | Date |
 | --- | --- | --- | --- | --- |
+| [Maximum Subarray](LeetCode/Java/medium/Maximum-Subarray/README.md) | Medium | Java | LeetCode | 2026-10-11 |
 | [Replace Elements with Greatest Element on Right Side](LeetCode/Java/easy/Replace-Elements-with-Greatest-Element-on-Right-Side/README.md) | Easy | Java | LeetCode | 2026-10-10 |
 | [Missing And Repeating](gfg/Java/Easy/Missing-And-Repeating/README.md) | Easy | Java | GeeksforGeeks | 2026-10-07 |
 | [Merge Intervals](LeetCode/Java/medium/Merge-Intervals/README.md) | Medium | Java | LeetCode | 2026-10-06 |
@@ -83,7 +86,6 @@
 | [Search a 2D Matrix](LeetCode/Java/medium/Search-a-2D-Matrix/README.md) | Medium | Java | LeetCode | 2026-10-04 |
 | [Find Smallest Letter Greater Than Target](LeetCode/Java/easy/Find-Smallest-Letter-Greater-Than-Target/README.md) | Easy | Java | LeetCode | 2026-10-03 |
 | [Search Insert Position](LeetCode/Java/easy/Search-Insert-Position/README.md) | Easy | Java | LeetCode | 2026-10-01 |
-| [Binary Search](LeetCode/Java/easy/Binary-Search/README.md) | Easy | Java | LeetCode | 2026-09-30 |
 
 ## 📚 Solution Documentation
 

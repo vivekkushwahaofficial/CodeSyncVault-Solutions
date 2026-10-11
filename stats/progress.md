@@ -10,26 +10,26 @@
 
 | Metric | Count | Percentage |
 | --- | ---: | ---: |
-| 🏆 Total Solved | 28 | 100% |
-| 🔵 Basic | 1 | 4% |
-| 🟢 Easy | 22 | 79% |
-| 🟠 Medium | 5 | 18% |
+| 🏆 Total Solved | 29 | 100% |
+| 🔵 Basic | 1 | 3% |
+| 🟢 Easy | 22 | 76% |
+| 🟠 Medium | 6 | 21% |
 | 🔴 Hard | 0 | 0% |
 
 ## 🎯 Difficulty Distribution
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | █░░░░░░░░░░░░░░░░░░░ 4% | 1/28 |
-| 🟢 Easy | ████████████████░░░░ 79% | 22/28 |
-| 🟠 Medium | ████░░░░░░░░░░░░░░░░ 18% | 5/28 |
-| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/28 |
+| 🔵 Basic | █░░░░░░░░░░░░░░░░░░░ 3% | 1/29 |
+| 🟢 Easy | ███████████████░░░░░ 76% | 22/29 |
+| 🟠 Medium | ████░░░░░░░░░░░░░░░░ 21% | 6/29 |
+| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/29 |
 
 ## 🌐 Platform Distribution
 
 | Platform | Problems |
 | --- | ---: |
-| LeetCode | 18 |
+| LeetCode | 19 |
 | gfg | 6 |
 | HackerRank | 4 |
 
@@ -37,7 +37,7 @@
 
 | Language | Problems |
 | --- | ---: |
-| Java | 24 |
+| Java | 25 |
 | Python | 3 |
 | C++ | 1 |
 
@@ -48,7 +48,9 @@
 | Binary Search | 6 |
 | Hash Map | 4 |
 | Sorting | 2 |
+| Dynamic Programming | 1 |
 | Monotonic Stack | 1 |
+| Sliding Window | 1 |
 | Stack | 1 |
 | Two Pointer | 1 |
 
@@ -56,8 +58,8 @@
 
 | Topic | Problems |
 | --- | ---: |
-| Array | 4 |
-| Math | 3 |
+| Array | 5 |
+| Math | 4 |
 
 ---
 
