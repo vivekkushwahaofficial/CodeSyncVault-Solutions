@@ -644,6 +644,29 @@
         ]
       },
       "solvedAt": "2026-10-12T19:53:50.913Z"
+    },
+    {
+      "path": "HackerRank/Python/Easy/Nested-Lists/Solution.py",
+      "metadata": {
+        "platform": "HackerRank",
+        "title": "Nested Lists",
+        "slug": "nested-list",
+        "difficulty": "Easy",
+        "language": "Python",
+        "url": "https://www.hackerrank.com/challenges/nested-list/problem?isFullScreen=true",
+        "solvedAt": "2026-10-12T20:07:52.000Z",
+        "patterns": [
+          "Sorting"
+        ],
+        "topics": [
+          "Math"
+        ],
+        "tags": [
+          "Sorting",
+          "Math"
+        ]
+      },
+      "solvedAt": "2026-10-12T20:07:52.000Z"
     }
   ]
 }

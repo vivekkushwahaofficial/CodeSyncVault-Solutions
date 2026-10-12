@@ -1,6 +1,6 @@
 # 🟢 Easy Problems
 
-**Total Problems Solved:** 23
+**Total Problems Solved:** 24
 
 [⬅ Back to Portfolio README](../README.md) | [📚 All Problems](AllProblems.md) | [📈 Statistics](../stats/progress.md)
 
@@ -15,6 +15,7 @@
 | Third Largest | Easy | — | Java | gfg | [View Solution](../gfg/Java/Easy/Third-Largest/README.md) |
 |  Java Stdin and Stdout I | Easy | — | Java | HackerRank | [View Solution](../HackerRank/Java/Easy/Java-Stdin-and-Stdout-I/README.md) |
 | List Comprehensions | Easy | — | Python | HackerRank | [View Solution](../HackerRank/Python/Easy/List-Comprehensions/README.md) |
+| Nested Lists | Easy | Sorting, Math | Python | HackerRank | [View Solution](../HackerRank/Python/Easy/Nested-Lists/README.md) |
 | Say "Hello, World!" With Python | Easy | — | Python | HackerRank | [View Solution](../HackerRank/Python/Easy/Say-Hello%2C-World!-With-Python/README.md) |
 | Welcome to Java! | Easy | — | Java | HackerRank | [View Solution](../HackerRank/Java/Easy/Welcome-to-Java!/README.md) |
 | Add Binary | Easy | — | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Add-Binary/README.md) |
