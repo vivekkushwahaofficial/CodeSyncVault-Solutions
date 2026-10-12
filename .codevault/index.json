@@ -586,6 +586,39 @@
         "timeComplexity": "O(n)"
       },
       "solvedAt": "2026-10-11T13:52:25.253Z"
+    },
+    {
+      "path": "LeetCode/Java/medium/Top-K-Frequent-Elements/Solution.java",
+      "metadata": {
+        "platform": "LeetCode",
+        "title": "Top K Frequent Elements",
+        "slug": "top-k-frequent-elements",
+        "difficulty": "medium",
+        "language": "Java",
+        "url": "https://leetcode.com/problems/top-k-frequent-elements/submissions/2170563462/",
+        "tags": [
+          "Array",
+          "Hash Table",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Bucket Sort",
+          "Counting",
+          "Quickselect"
+        ],
+        "solvedAt": "2026-10-12T19:30:37.152Z",
+        "patterns": [
+          "Hash Map",
+          "Sorting",
+          "Heap"
+        ],
+        "topics": [
+          "Array",
+          "Math"
+        ],
+        "spaceComplexity": "O(n)"
+      },
+      "solvedAt": "2026-10-12T19:30:37.152Z"
     }
   ]
 }

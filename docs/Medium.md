@@ -1,6 +1,6 @@
 # 🟠 Medium Problems
 
-**Total Problems Solved:** 6
+**Total Problems Solved:** 7
 
 [⬅ Back to Portfolio README](../README.md) | [📚 All Problems](AllProblems.md) | [📈 Statistics](../stats/progress.md)
 
@@ -14,6 +14,7 @@
 | Peak Index in a Mountain Array | Medium | Binary Search, Array | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Peak-Index-in-a-Mountain-Array/README.md) |
 | Reverse Integer | Medium | Math | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Reverse-Integer/README.md) |
 | Search a 2D Matrix | Medium | Binary Search | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Search-a-2D-Matrix/README.md) |
+| Top K Frequent Elements | Medium | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Top-K-Frequent-Elements/README.md) |
 
 ---
 

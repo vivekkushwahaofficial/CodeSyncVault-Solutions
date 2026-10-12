@@ -1,6 +1,6 @@
 # Sorting
 
-> 2 problems classified under this pattern.
+> 3 problems classified under this pattern.
 
 [← Back to README](../README.md) · [All Problems](../docs/AllProblems.md)
 
@@ -10,6 +10,7 @@
 | --- | --- | --- | --- | --- | --- |
 | Remove Duplicates from Sorted Array | Easy | Array, Sorting, Two Pointer | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Remove-Duplicates-from-Sorted-Array/README.md) |
 | Merge Intervals | Medium | Array, Sorting, Quicksort | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Merge-Intervals/README.md) |
+| Top K Frequent Elements | Medium | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Top-K-Frequent-Elements/README.md) |
 
 ---
 

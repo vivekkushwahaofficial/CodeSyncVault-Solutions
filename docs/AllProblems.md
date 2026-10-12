@@ -1,6 +1,6 @@
 # 📚 All Coding Problems
 
-> **29** problems solved across all supported platforms.
+> **30** problems solved across all supported platforms.
 
 [⬅ Back to Portfolio README](../README.md)
 
@@ -35,6 +35,7 @@
 | Search a 2D Matrix | Medium | Binary Search | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Search-a-2D-Matrix/README.md) |
 | Search Insert Position | Easy | Binary Search | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Search-Insert-Position/README.md) |
 | Single Number | Easy | Math | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Single-Number/README.md) |
+| Top K Frequent Elements | Medium | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Top-K-Frequent-Elements/README.md) |
 | Two Sum | Easy | Hash Map | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Two-Sum/README.md) |
 | Two Sum | Easy | Hash Map | C++ | LeetCode | [View Solution](../LeetCode/C%2B%2B/easy/Two-Sum/README.md) |
 | Two Sum | Easy | — | Python | LeetCode | [View Solution](../LeetCode/Python/easy/Two-Sum/README.md) |
