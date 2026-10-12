@@ -2,7 +2,7 @@
 
 > Automatically organized, analyzed, and updated by **CodeSyncVault**.
 
-[![Total Solved](https://img.shields.io/badge/Total%20Solved-30-6e40c9)](docs/AllProblems.md) [![Basic](https://img.shields.io/badge/Basic-1-4c9aff)](docs/Basic.md) [![Easy](https://img.shields.io/badge/Easy-22-2ea44f)](docs/Easy.md) [![Medium](https://img.shields.io/badge/Medium-7-f9a825)](docs/Medium.md) [![Hard](https://img.shields.io/badge/Hard-0-d73a49)](docs/Hard.md) [![Powered by CodeSyncVault](https://img.shields.io/badge/Powered%20by-CodeSyncVault-6e40c9)](https://github.com/vivekkushwahaofficial/CodeSyncVault)
+[![Total Solved](https://img.shields.io/badge/Total%20Solved-31-6e40c9)](docs/AllProblems.md) [![Basic](https://img.shields.io/badge/Basic-1-4c9aff)](docs/Basic.md) [![Easy](https://img.shields.io/badge/Easy-23-2ea44f)](docs/Easy.md) [![Medium](https://img.shields.io/badge/Medium-7-f9a825)](docs/Medium.md) [![Hard](https://img.shields.io/badge/Hard-0-d73a49)](docs/Hard.md) [![Powered by CodeSyncVault](https://img.shields.io/badge/Powered%20by-CodeSyncVault-6e40c9)](https://github.com/vivekkushwahaofficial/CodeSyncVault)
 
 ---
 
@@ -17,9 +17,9 @@
 
 | Metric | Count |
 | --- | ---: |
-| 🏆 Total Solved | 30 |
+| 🏆 Total Solved | 31 |
 | 🔵 Basic | 1 |
-| 🟢 Easy | 22 |
+| 🟢 Easy | 23 |
 | 🟠 Medium | 7 |
 | 🔴 Hard | 0 |
 
@@ -27,10 +27,10 @@
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | █░░░░░░░░░░░░░░░░░░░ 3% | 1/30 |
-| 🟢 Easy | ███████████████░░░░░ 73% | 22/30 |
-| 🟠 Medium | █████░░░░░░░░░░░░░░░ 23% | 7/30 |
-| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/30 |
+| 🔵 Basic | █░░░░░░░░░░░░░░░░░░░ 3% | 1/31 |
+| 🟢 Easy | ███████████████░░░░░ 74% | 23/31 |
+| 🟠 Medium | █████░░░░░░░░░░░░░░░ 23% | 7/31 |
+| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/31 |
 
 ## 🔥 Coding Activity
 
@@ -42,7 +42,7 @@
 | --- | ---: |
 | [Binary Search](patterns/Binary%20Search.md) | 6 |
 | [Hash Map](patterns/Hash%20Map.md) | 5 |
-| [Sorting](patterns/Sorting.md) | 3 |
+| [Sorting](patterns/Sorting.md) | 4 |
 | [Dynamic Programming](patterns/Dynamic%20Programming.md) | 1 |
 | [Heap](patterns/Heap.md) | 1 |
 | [Monotonic Stack](patterns/Monotonic%20Stack.md) | 1 |
@@ -56,12 +56,14 @@
 | --- | ---: |
 | [Array](topics/Array.md) | 6 |
 | [Math](topics/Math.md) | 5 |
+| [Hashing](topics/Hashing.md) | 1 |
+| [String](topics/String.md) | 1 |
 
 ## 💻 Languages
 
 | Language | Problems |
 | --- | ---: |
-| Java | 26 |
+| Java | 27 |
 | Python | 3 |
 | C++ | 1 |
 
@@ -70,13 +72,14 @@
 | Platform | Problems |
 | --- | ---: |
 | LeetCode | 20 |
-| GeeksforGeeks | 6 |
+| GeeksforGeeks | 7 |
 | HackerRank | 4 |
 
 ## 🕒 Recently Solved
 
 | Problem | Difficulty | Language | Platform | Date |
 | --- | --- | --- | --- | --- |
+| [Anagram](gfg/Java/Easy/Anagram/README.md) | Easy | Java | GeeksforGeeks | 2026-10-12 |
 | [Top K Frequent Elements](LeetCode/Java/medium/Top-K-Frequent-Elements/README.md) | Medium | Java | LeetCode | 2026-10-12 |
 | [Maximum Subarray](LeetCode/Java/medium/Maximum-Subarray/README.md) | Medium | Java | LeetCode | 2026-10-11 |
 | [Replace Elements with Greatest Element on Right Side](LeetCode/Java/easy/Replace-Elements-with-Greatest-Element-on-Right-Side/README.md) | Easy | Java | LeetCode | 2026-10-10 |
@@ -86,7 +89,6 @@
 | [Valid Perfect Square](LeetCode/Java/easy/Valid-Perfect-Square/README.md) | Easy | Java | LeetCode | 2026-10-06 |
 | [Peak Index in a Mountain Array](LeetCode/Java/medium/Peak-Index-in-a-Mountain-Array/README.md) | Medium | Java | LeetCode | 2026-10-05 |
 | [Search a 2D Matrix](LeetCode/Java/medium/Search-a-2D-Matrix/README.md) | Medium | Java | LeetCode | 2026-10-04 |
-| [Find Smallest Letter Greater Than Target](LeetCode/Java/easy/Find-Smallest-Letter-Greater-Than-Target/README.md) | Easy | Java | LeetCode | 2026-10-03 |
 
 ## 📚 Solution Documentation
 

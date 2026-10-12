@@ -1,6 +1,6 @@
 # 📚 All Coding Problems
 
-> **30** problems solved across all supported platforms.
+> **31** problems solved across all supported platforms.
 
 [⬅ Back to Portfolio README](../README.md)
 
@@ -10,6 +10,7 @@
 
 | Problem | Difficulty | Primary Tags | Language | Platform | Solution |
 | --- | --- | --- | --- | --- | --- |
+| Anagram | Easy | Sorting, String, Hashing | Java | gfg | [View Solution](../gfg/Java/Easy/Anagram/README.md) |
 | Array Search | Basic | Array | Java | gfg | [View Solution](../gfg/Java/Basic/Array-Search/README.md) |
 | Convert To Zig-Zag | Easy | — | Java | gfg | [View Solution](../gfg/Java/Easy/Convert-To-Zig-Zag/README.md) |
 | Missing And Repeating | Easy | Array, Math | Java | gfg | [View Solution](../gfg/Java/Easy/Missing-And-Repeating/README.md) |

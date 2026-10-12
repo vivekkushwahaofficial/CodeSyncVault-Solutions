@@ -619,6 +619,31 @@
         "spaceComplexity": "O(n)"
       },
       "solvedAt": "2026-10-12T19:30:37.152Z"
+    },
+    {
+      "path": "gfg/Java/Easy/Anagram/Solution.java",
+      "metadata": {
+        "platform": "gfg",
+        "title": "Anagram",
+        "slug": "anagram-1587115620",
+        "difficulty": "Easy",
+        "language": "Java",
+        "url": "https://www.geeksforgeeks.org/problems/anagram-1587115620/1",
+        "solvedAt": "2026-10-12T19:53:50.913Z",
+        "patterns": [
+          "Sorting"
+        ],
+        "topics": [
+          "String",
+          "Hashing"
+        ],
+        "tags": [
+          "Sorting",
+          "String",
+          "Hashing"
+        ]
+      },
+      "solvedAt": "2026-10-12T19:53:50.913Z"
     }
   ]
 }
