@@ -1,6 +1,6 @@
 # 🟢 Easy Problems
 
-**Total Problems Solved:** 25
+**Total Problems Solved:** 26
 
 [⬅ Back to Portfolio README](../README.md) | [📚 All Problems](AllProblems.md) | [📈 Statistics](../stats/progress.md)
 
@@ -23,6 +23,7 @@
 | Contains Duplicate | Easy | Hash Map | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Contains-Duplicate/README.md) |
 | Contains Duplicate II | Easy | Hash Map | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Contains-Duplicate-II/README.md) |
 | Find Smallest Letter Greater Than Target | Easy | Binary Search | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Find-Smallest-Letter-Greater-Than-Target/README.md) |
+| Fizz Buzz | Easy | Math, String, Simulation, Array | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Fizz-Buzz/README.md) |
 | Remove Duplicates from Sorted Array | Easy | Array, Sorting, Two Pointer | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Remove-Duplicates-from-Sorted-Array/README.md) |
 | Replace Elements with Greatest Element on Right Side | Easy | Array | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Replace-Elements-with-Greatest-Element-on-Right-Side/README.md) |
 | Reverse Linked List | Easy | Linked List, Recursion, Math | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Reverse-Linked-List/README.md) |

@@ -690,6 +690,31 @@
         ]
       },
       "solvedAt": "2026-10-13T18:50:08.251Z"
+    },
+    {
+      "path": "LeetCode/Java/easy/Fizz-Buzz/Solution.java",
+      "metadata": {
+        "platform": "LeetCode",
+        "title": "Fizz Buzz",
+        "slug": "fizz-buzz",
+        "difficulty": "easy",
+        "language": "Java",
+        "url": "https://leetcode.com/problems/fizz-buzz/submissions/2171527859/",
+        "tags": [
+          "Math",
+          "String",
+          "Simulation",
+          "Array"
+        ],
+        "solvedAt": "2026-10-13T18:52:38.295Z",
+        "patterns": [],
+        "topics": [
+          "Array",
+          "String",
+          "Math"
+        ]
+      },
+      "solvedAt": "2026-10-13T18:52:38.295Z"
     }
   ]
 }
