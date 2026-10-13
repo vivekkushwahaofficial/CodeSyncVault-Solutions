@@ -1,6 +1,6 @@
 # 📚 All Coding Problems
 
-> **32** problems solved across all supported platforms.
+> **33** problems solved across all supported platforms.
 
 [⬅ Back to Portfolio README](../README.md)
 
@@ -33,6 +33,7 @@
 | Remove Duplicates from Sorted Array | Easy | Array, Sorting, Two Pointer | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Remove-Duplicates-from-Sorted-Array/README.md) |
 | Replace Elements with Greatest Element on Right Side | Easy | Array | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Replace-Elements-with-Greatest-Element-on-Right-Side/README.md) |
 | Reverse Integer | Medium | Math | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Reverse-Integer/README.md) |
+| Reverse Linked List | Easy | Linked List, Recursion, Math | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Reverse-Linked-List/README.md) |
 | Roman to Integer | Easy | Math | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Roman-to-Integer/README.md) |
 | Search a 2D Matrix | Medium | Binary Search | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Search-a-2D-Matrix/README.md) |
 | Search Insert Position | Easy | Binary Search | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Search-Insert-Position/README.md) |

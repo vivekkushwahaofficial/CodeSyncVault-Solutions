@@ -2,7 +2,7 @@
 
 > Automatically organized, analyzed, and updated by **CodeSyncVault**.
 
-[![Total Solved](https://img.shields.io/badge/Total%20Solved-32-6e40c9)](docs/AllProblems.md) [![Basic](https://img.shields.io/badge/Basic-1-4c9aff)](docs/Basic.md) [![Easy](https://img.shields.io/badge/Easy-24-2ea44f)](docs/Easy.md) [![Medium](https://img.shields.io/badge/Medium-7-f9a825)](docs/Medium.md) [![Hard](https://img.shields.io/badge/Hard-0-d73a49)](docs/Hard.md) [![Powered by CodeSyncVault](https://img.shields.io/badge/Powered%20by-CodeSyncVault-6e40c9)](https://github.com/vivekkushwahaofficial/CodeSyncVault)
+[![Total Solved](https://img.shields.io/badge/Total%20Solved-33-6e40c9)](docs/AllProblems.md) [![Basic](https://img.shields.io/badge/Basic-1-4c9aff)](docs/Basic.md) [![Easy](https://img.shields.io/badge/Easy-25-2ea44f)](docs/Easy.md) [![Medium](https://img.shields.io/badge/Medium-7-f9a825)](docs/Medium.md) [![Hard](https://img.shields.io/badge/Hard-0-d73a49)](docs/Hard.md) [![Powered by CodeSyncVault](https://img.shields.io/badge/Powered%20by-CodeSyncVault-6e40c9)](https://github.com/vivekkushwahaofficial/CodeSyncVault)
 
 ---
 
@@ -17,9 +17,9 @@
 
 | Metric | Count |
 | --- | ---: |
-| 🏆 Total Solved | 32 |
+| 🏆 Total Solved | 33 |
 | 🔵 Basic | 1 |
-| 🟢 Easy | 24 |
+| 🟢 Easy | 25 |
 | 🟠 Medium | 7 |
 | 🔴 Hard | 0 |
 
@@ -27,10 +27,10 @@
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | █░░░░░░░░░░░░░░░░░░░ 3% | 1/32 |
-| 🟢 Easy | ███████████████░░░░░ 75% | 24/32 |
-| 🟠 Medium | ████░░░░░░░░░░░░░░░░ 22% | 7/32 |
-| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/32 |
+| 🔵 Basic | █░░░░░░░░░░░░░░░░░░░ 3% | 1/33 |
+| 🟢 Easy | ███████████████░░░░░ 76% | 25/33 |
+| 🟠 Medium | ████░░░░░░░░░░░░░░░░ 21% | 7/33 |
+| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/33 |
 
 ## 🔥 Coding Activity
 
@@ -54,16 +54,17 @@
 
 | Topic | Problems |
 | --- | ---: |
+| [Math](topics/Math.md) | 7 |
 | [Array](topics/Array.md) | 6 |
-| [Math](topics/Math.md) | 6 |
 | [Hashing](topics/Hashing.md) | 1 |
+| [Linked List](topics/Linked%20List.md) | 1 |
 | [String](topics/String.md) | 1 |
 
 ## 💻 Languages
 
 | Language | Problems |
 | --- | ---: |
-| Java | 27 |
+| Java | 28 |
 | Python | 4 |
 | C++ | 1 |
 
@@ -71,7 +72,7 @@
 
 | Platform | Problems |
 | --- | ---: |
-| LeetCode | 20 |
+| LeetCode | 21 |
 | GeeksforGeeks | 7 |
 | HackerRank | 5 |
 
@@ -79,6 +80,7 @@
 
 | Problem | Difficulty | Language | Platform | Date |
 | --- | --- | --- | --- | --- |
+| [Reverse Linked List](LeetCode/Java/easy/Reverse-Linked-List/README.md) | Easy | Java | LeetCode | 2026-10-13 |
 | [Nested Lists](HackerRank/Python/Easy/Nested-Lists/README.md) | Easy | Python | HackerRank | 2026-10-12 |
 | [Anagram](gfg/Java/Easy/Anagram/README.md) | Easy | Java | GeeksforGeeks | 2026-10-12 |
 | [Top K Frequent Elements](LeetCode/Java/medium/Top-K-Frequent-Elements/README.md) | Medium | Java | LeetCode | 2026-10-12 |
@@ -88,7 +90,6 @@
 | [Merge Intervals](LeetCode/Java/medium/Merge-Intervals/README.md) | Medium | Java | LeetCode | 2026-10-06 |
 | [Convert To Zig-Zag](gfg/Java/Easy/Convert-To-Zig-Zag/README.md) | Easy | Java | GeeksforGeeks | 2026-10-06 |
 | [Valid Perfect Square](LeetCode/Java/easy/Valid-Perfect-Square/README.md) | Easy | Java | LeetCode | 2026-10-06 |
-| [Peak Index in a Mountain Array](LeetCode/Java/medium/Peak-Index-in-a-Mountain-Array/README.md) | Medium | Java | LeetCode | 2026-10-05 |
 
 ## 📚 Solution Documentation
 

@@ -1,6 +1,6 @@
 # 🟢 Easy Problems
 
-**Total Problems Solved:** 24
+**Total Problems Solved:** 25
 
 [⬅ Back to Portfolio README](../README.md) | [📚 All Problems](AllProblems.md) | [📈 Statistics](../stats/progress.md)
 
@@ -25,6 +25,7 @@
 | Find Smallest Letter Greater Than Target | Easy | Binary Search | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Find-Smallest-Letter-Greater-Than-Target/README.md) |
 | Remove Duplicates from Sorted Array | Easy | Array, Sorting, Two Pointer | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Remove-Duplicates-from-Sorted-Array/README.md) |
 | Replace Elements with Greatest Element on Right Side | Easy | Array | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Replace-Elements-with-Greatest-Element-on-Right-Side/README.md) |
+| Reverse Linked List | Easy | Linked List, Recursion, Math | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Reverse-Linked-List/README.md) |
 | Roman to Integer | Easy | Math | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Roman-to-Integer/README.md) |
 | Search Insert Position | Easy | Binary Search | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Search-Insert-Position/README.md) |
 | Single Number | Easy | Math | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Single-Number/README.md) |

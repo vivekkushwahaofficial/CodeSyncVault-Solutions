@@ -667,6 +667,29 @@
         ]
       },
       "solvedAt": "2026-10-12T20:07:52.000Z"
+    },
+    {
+      "path": "LeetCode/Java/easy/Reverse-Linked-List/Solution.java",
+      "metadata": {
+        "platform": "LeetCode",
+        "title": "Reverse Linked List",
+        "slug": "reverse-linked-list",
+        "difficulty": "easy",
+        "language": "Java",
+        "url": "https://leetcode.com/problems/reverse-linked-list/submissions/2171525910/",
+        "tags": [
+          "Linked List",
+          "Recursion",
+          "Math"
+        ],
+        "solvedAt": "2026-10-13T18:50:08.251Z",
+        "patterns": [],
+        "topics": [
+          "Linked List",
+          "Math"
+        ]
+      },
+      "solvedAt": "2026-10-13T18:50:08.251Z"
     }
   ]
 }
