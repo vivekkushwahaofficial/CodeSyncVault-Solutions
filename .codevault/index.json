@@ -715,6 +715,31 @@
         ]
       },
       "solvedAt": "2026-10-13T18:52:38.295Z"
+    },
+    {
+      "path": "LeetCode/Java/easy/Longest-Common-Prefix/Solution.java",
+      "metadata": {
+        "platform": "LeetCode",
+        "title": "Longest Common Prefix",
+        "slug": "longest-common-prefix",
+        "difficulty": "easy",
+        "language": "Java",
+        "url": "https://leetcode.com/problems/longest-common-prefix/submissions/2172498662/",
+        "tags": [
+          "Array",
+          "String",
+          "Trie"
+        ],
+        "solvedAt": "2026-10-14T20:06:48.543Z",
+        "patterns": [
+          "Trie"
+        ],
+        "topics": [
+          "Array",
+          "String"
+        ]
+      },
+      "solvedAt": "2026-10-14T20:06:48.543Z"
     }
   ]
 }

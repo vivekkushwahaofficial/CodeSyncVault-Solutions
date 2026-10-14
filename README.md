@@ -2,7 +2,7 @@
 
 > Automatically organized, analyzed, and updated by **CodeSyncVault**.
 
-[![Total Solved](https://img.shields.io/badge/Total%20Solved-34-6e40c9)](docs/AllProblems.md) [![Basic](https://img.shields.io/badge/Basic-1-4c9aff)](docs/Basic.md) [![Easy](https://img.shields.io/badge/Easy-26-2ea44f)](docs/Easy.md) [![Medium](https://img.shields.io/badge/Medium-7-f9a825)](docs/Medium.md) [![Hard](https://img.shields.io/badge/Hard-0-d73a49)](docs/Hard.md) [![Powered by CodeSyncVault](https://img.shields.io/badge/Powered%20by-CodeSyncVault-6e40c9)](https://github.com/vivekkushwahaofficial/CodeSyncVault)
+[![Total Solved](https://img.shields.io/badge/Total%20Solved-35-6e40c9)](docs/AllProblems.md) [![Basic](https://img.shields.io/badge/Basic-1-4c9aff)](docs/Basic.md) [![Easy](https://img.shields.io/badge/Easy-27-2ea44f)](docs/Easy.md) [![Medium](https://img.shields.io/badge/Medium-7-f9a825)](docs/Medium.md) [![Hard](https://img.shields.io/badge/Hard-0-d73a49)](docs/Hard.md) [![Powered by CodeSyncVault](https://img.shields.io/badge/Powered%20by-CodeSyncVault-6e40c9)](https://github.com/vivekkushwahaofficial/CodeSyncVault)
 
 ---
 
@@ -17,9 +17,9 @@
 
 | Metric | Count |
 | --- | ---: |
-| 🏆 Total Solved | 34 |
+| 🏆 Total Solved | 35 |
 | 🔵 Basic | 1 |
-| 🟢 Easy | 26 |
+| 🟢 Easy | 27 |
 | 🟠 Medium | 7 |
 | 🔴 Hard | 0 |
 
@@ -27,10 +27,10 @@
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | █░░░░░░░░░░░░░░░░░░░ 3% | 1/34 |
-| 🟢 Easy | ███████████████░░░░░ 76% | 26/34 |
-| 🟠 Medium | ████░░░░░░░░░░░░░░░░ 21% | 7/34 |
-| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/34 |
+| 🔵 Basic | █░░░░░░░░░░░░░░░░░░░ 3% | 1/35 |
+| 🟢 Easy | ███████████████░░░░░ 77% | 27/35 |
+| 🟠 Medium | ████░░░░░░░░░░░░░░░░ 20% | 7/35 |
+| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/35 |
 
 ## 🔥 Coding Activity
 
@@ -48,15 +48,16 @@
 | [Monotonic Stack](patterns/Monotonic%20Stack.md) | 1 |
 | [Sliding Window](patterns/Sliding%20Window.md) | 1 |
 | [Stack](patterns/Stack.md) | 1 |
+| [Trie](patterns/Trie.md) | 1 |
 | [Two Pointer](patterns/Two%20Pointer.md) | 1 |
 
 ## 📚 Topic Index
 
 | Topic | Problems |
 | --- | ---: |
+| [Array](topics/Array.md) | 8 |
 | [Math](topics/Math.md) | 8 |
-| [Array](topics/Array.md) | 7 |
-| [String](topics/String.md) | 2 |
+| [String](topics/String.md) | 3 |
 | [Hashing](topics/Hashing.md) | 1 |
 | [Linked List](topics/Linked%20List.md) | 1 |
 
@@ -64,7 +65,7 @@
 
 | Language | Problems |
 | --- | ---: |
-| Java | 29 |
+| Java | 30 |
 | Python | 4 |
 | C++ | 1 |
 
@@ -72,7 +73,7 @@
 
 | Platform | Problems |
 | --- | ---: |
-| LeetCode | 22 |
+| LeetCode | 23 |
 | GeeksforGeeks | 7 |
 | HackerRank | 5 |
 
@@ -80,6 +81,7 @@
 
 | Problem | Difficulty | Language | Platform | Date |
 | --- | --- | --- | --- | --- |
+| [Longest Common Prefix](LeetCode/Java/easy/Longest-Common-Prefix/README.md) | Easy | Java | LeetCode | 2026-10-14 |
 | [Fizz Buzz](LeetCode/Java/easy/Fizz-Buzz/README.md) | Easy | Java | LeetCode | 2026-10-13 |
 | [Reverse Linked List](LeetCode/Java/easy/Reverse-Linked-List/README.md) | Easy | Java | LeetCode | 2026-10-13 |
 | [Nested Lists](HackerRank/Python/Easy/Nested-Lists/README.md) | Easy | Python | HackerRank | 2026-10-12 |
@@ -89,7 +91,6 @@
 | [Replace Elements with Greatest Element on Right Side](LeetCode/Java/easy/Replace-Elements-with-Greatest-Element-on-Right-Side/README.md) | Easy | Java | LeetCode | 2026-10-10 |
 | [Missing And Repeating](gfg/Java/Easy/Missing-And-Repeating/README.md) | Easy | Java | GeeksforGeeks | 2026-10-07 |
 | [Merge Intervals](LeetCode/Java/medium/Merge-Intervals/README.md) | Medium | Java | LeetCode | 2026-10-06 |
-| [Convert To Zig-Zag](gfg/Java/Easy/Convert-To-Zig-Zag/README.md) | Easy | Java | GeeksforGeeks | 2026-10-06 |
 
 ## 📚 Solution Documentation
 

@@ -1,6 +1,6 @@
 # Array
 
-> 7 problems classified under this topic.
+> 8 problems classified under this topic.
 
 [← Back to README](../README.md) · [All Problems](../docs/AllProblems.md)
 
@@ -15,6 +15,7 @@
 | Maximum Subarray | Medium | Array, Divide and Conquer, Dynamic Programming, Sliding Window, Math, Subarray | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Maximum-Subarray/README.md) |
 | Top K Frequent Elements | Medium | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Top-K-Frequent-Elements/README.md) |
 | Fizz Buzz | Easy | Math, String, Simulation, Array | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Fizz-Buzz/README.md) |
+| Longest Common Prefix | Easy | Array, String, Trie | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Longest-Common-Prefix/README.md) |
 
 ---
 
