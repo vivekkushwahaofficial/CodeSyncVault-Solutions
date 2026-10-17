@@ -1,6 +1,6 @@
 # String
 
-> 4 problems classified under this topic.
+> 5 problems classified under this topic.
 
 [← Back to README](../README.md) · [All Problems](../docs/AllProblems.md)
 
@@ -12,6 +12,7 @@
 | Fizz Buzz | Easy | Math, String, Simulation, Array | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Fizz-Buzz/README.md) |
 | Longest Common Prefix | Easy | Array, String, Trie | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Longest-Common-Prefix/README.md) |
 | First Unique Character in a String | Easy | Hash Table, String, Queue, Counting, Hash Map | Java | LeetCode | [View Solution](../LeetCode/Java/easy/First-Unique-Character-in-a-String/README.md) |
+| Ransom Note | Easy | Hash Table, String, Counting, Hash Map | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Ransom-Note/README.md) |
 
 ---
 

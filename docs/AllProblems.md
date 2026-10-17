@@ -1,6 +1,6 @@
 # 📚 All Coding Problems
 
-> **36** problems solved across all supported platforms.
+> **37** problems solved across all supported platforms.
 
 [⬅ Back to Portfolio README](../README.md)
 
@@ -33,6 +33,7 @@
 | Maximum Subarray | Medium | Array, Divide and Conquer, Dynamic Programming, Sliding Window, Math, Subarray | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Maximum-Subarray/README.md) |
 | Merge Intervals | Medium | Array, Sorting, Quicksort | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Merge-Intervals/README.md) |
 | Peak Index in a Mountain Array | Medium | Binary Search, Array | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Peak-Index-in-a-Mountain-Array/README.md) |
+| Ransom Note | Easy | Hash Table, String, Counting, Hash Map | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Ransom-Note/README.md) |
 | Remove Duplicates from Sorted Array | Easy | Array, Sorting, Two Pointer | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Remove-Duplicates-from-Sorted-Array/README.md) |
 | Replace Elements with Greatest Element on Right Side | Easy | Array | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Replace-Elements-with-Greatest-Element-on-Right-Side/README.md) |
 | Reverse Integer | Medium | Math | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Reverse-Integer/README.md) |

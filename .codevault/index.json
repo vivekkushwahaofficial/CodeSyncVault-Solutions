@@ -767,6 +767,32 @@
         "spaceComplexity": "O(n)"
       },
       "solvedAt": "2026-10-17T08:53:12.274Z"
+    },
+    {
+      "path": "LeetCode/Java/easy/Ransom-Note/Solution.java",
+      "metadata": {
+        "platform": "LeetCode",
+        "title": "Ransom Note",
+        "slug": "ransom-note",
+        "difficulty": "easy",
+        "language": "Java",
+        "url": "https://leetcode.com/problems/ransom-note/submissions/2174457160/",
+        "tags": [
+          "Hash Table",
+          "String",
+          "Counting",
+          "Hash Map"
+        ],
+        "solvedAt": "2026-10-17T09:50:47.698Z",
+        "patterns": [
+          "Hash Map"
+        ],
+        "topics": [
+          "String"
+        ],
+        "spaceComplexity": "O(n)"
+      },
+      "solvedAt": "2026-10-17T09:50:47.698Z"
     }
   ]
 }
