@@ -740,6 +740,33 @@
         ]
       },
       "solvedAt": "2026-10-14T20:06:48.543Z"
+    },
+    {
+      "path": "LeetCode/Java/easy/First-Unique-Character-in-a-String/Solution.java",
+      "metadata": {
+        "platform": "LeetCode",
+        "title": "First Unique Character in a String",
+        "slug": "first-unique-character-in-a-string",
+        "difficulty": "easy",
+        "language": "Java",
+        "url": "https://leetcode.com/problems/first-unique-character-in-a-string/submissions/2174425459/",
+        "tags": [
+          "Hash Table",
+          "String",
+          "Queue",
+          "Counting",
+          "Hash Map"
+        ],
+        "solvedAt": "2026-10-17T08:53:12.274Z",
+        "patterns": [
+          "Hash Map"
+        ],
+        "topics": [
+          "String"
+        ],
+        "spaceComplexity": "O(n)"
+      },
+      "solvedAt": "2026-10-17T08:53:12.274Z"
     }
   ]
 }

@@ -10,26 +10,26 @@
 
 | Metric | Count | Percentage |
 | --- | ---: | ---: |
-| 🏆 Total Solved | 35 | 100% |
+| 🏆 Total Solved | 36 | 100% |
 | 🔵 Basic | 1 | 3% |
-| 🟢 Easy | 27 | 77% |
-| 🟠 Medium | 7 | 20% |
+| 🟢 Easy | 28 | 78% |
+| 🟠 Medium | 7 | 19% |
 | 🔴 Hard | 0 | 0% |
 
 ## 🎯 Difficulty Distribution
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | █░░░░░░░░░░░░░░░░░░░ 3% | 1/35 |
-| 🟢 Easy | ███████████████░░░░░ 77% | 27/35 |
-| 🟠 Medium | ████░░░░░░░░░░░░░░░░ 20% | 7/35 |
-| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/35 |
+| 🔵 Basic | █░░░░░░░░░░░░░░░░░░░ 3% | 1/36 |
+| 🟢 Easy | ████████████████░░░░ 78% | 28/36 |
+| 🟠 Medium | ████░░░░░░░░░░░░░░░░ 19% | 7/36 |
+| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/36 |
 
 ## 🌐 Platform Distribution
 
 | Platform | Problems |
 | --- | ---: |
-| LeetCode | 23 |
+| LeetCode | 24 |
 | gfg | 7 |
 | HackerRank | 5 |
 
@@ -37,7 +37,7 @@
 
 | Language | Problems |
 | --- | ---: |
-| Java | 30 |
+| Java | 31 |
 | Python | 4 |
 | C++ | 1 |
 
@@ -46,7 +46,7 @@
 | Pattern | Problems |
 | --- | ---: |
 | Binary Search | 6 |
-| Hash Map | 5 |
+| Hash Map | 6 |
 | Sorting | 5 |
 | Dynamic Programming | 1 |
 | Heap | 1 |
@@ -62,7 +62,7 @@
 | --- | ---: |
 | Array | 8 |
 | Math | 8 |
-| String | 3 |
+| String | 4 |
 | Hashing | 1 |
 | Linked List | 1 |
 

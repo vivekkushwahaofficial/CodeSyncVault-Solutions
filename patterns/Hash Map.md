@@ -1,6 +1,6 @@
 # Hash Map
 
-> 5 problems classified under this pattern.
+> 6 problems classified under this pattern.
 
 [← Back to README](../README.md) · [All Problems](../docs/AllProblems.md)
 
@@ -13,6 +13,7 @@
 | Contains Duplicate | Easy | Hash Map | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Contains-Duplicate/README.md) |
 | Contains Duplicate II | Easy | Hash Map | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Contains-Duplicate-II/README.md) |
 | Top K Frequent Elements | Medium | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Top-K-Frequent-Elements/README.md) |
+| First Unique Character in a String | Easy | Hash Table, String, Queue, Counting, Hash Map | Java | LeetCode | [View Solution](../LeetCode/Java/easy/First-Unique-Character-in-a-String/README.md) |
 
 ---
 

@@ -1,6 +1,6 @@
 # 📚 All Coding Problems
 
-> **35** problems solved across all supported platforms.
+> **36** problems solved across all supported platforms.
 
 [⬅ Back to Portfolio README](../README.md)
 
@@ -27,6 +27,7 @@
 | Contains Duplicate | Easy | Hash Map | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Contains-Duplicate/README.md) |
 | Contains Duplicate II | Easy | Hash Map | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Contains-Duplicate-II/README.md) |
 | Find Smallest Letter Greater Than Target | Easy | Binary Search | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Find-Smallest-Letter-Greater-Than-Target/README.md) |
+| First Unique Character in a String | Easy | Hash Table, String, Queue, Counting, Hash Map | Java | LeetCode | [View Solution](../LeetCode/Java/easy/First-Unique-Character-in-a-String/README.md) |
 | Fizz Buzz | Easy | Math, String, Simulation, Array | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Fizz-Buzz/README.md) |
 | Longest Common Prefix | Easy | Array, String, Trie | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Longest-Common-Prefix/README.md) |
 | Maximum Subarray | Medium | Array, Divide and Conquer, Dynamic Programming, Sliding Window, Math, Subarray | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Maximum-Subarray/README.md) |
