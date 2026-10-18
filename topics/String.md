@@ -1,6 +1,6 @@
 # String
 
-> 5 problems classified under this topic.
+> 6 problems classified under this topic.
 
 [← Back to README](../README.md) · [All Problems](../docs/AllProblems.md)
 
@@ -13,6 +13,7 @@
 | Longest Common Prefix | Easy | Array, String, Trie | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Longest-Common-Prefix/README.md) |
 | First Unique Character in a String | Easy | Hash Table, String, Queue, Counting, Hash Map | Java | LeetCode | [View Solution](../LeetCode/Java/easy/First-Unique-Character-in-a-String/README.md) |
 | Ransom Note | Easy | Hash Table, String, Counting, Hash Map | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Ransom-Note/README.md) |
+| Maximum Number of Balloons | Easy | Hash Table, String, Counting, Hash Map, Greedy, Math | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Maximum-Number-of-Balloons/README.md) |
 
 ---
 

@@ -793,6 +793,37 @@
         "spaceComplexity": "O(n)"
       },
       "solvedAt": "2026-10-17T09:50:47.698Z"
+    },
+    {
+      "path": "LeetCode/Java/easy/Maximum-Number-of-Balloons/Solution.java",
+      "metadata": {
+        "platform": "LeetCode",
+        "title": "Maximum Number of Balloons",
+        "slug": "maximum-number-of-balloons",
+        "difficulty": "easy",
+        "language": "Java",
+        "url": "https://leetcode.com/problems/maximum-number-of-balloons/submissions/2175738720/",
+        "tags": [
+          "Hash Table",
+          "String",
+          "Counting",
+          "Hash Map",
+          "Greedy",
+          "Math"
+        ],
+        "solvedAt": "2026-10-18T21:18:40.552Z",
+        "patterns": [
+          "Hash Map",
+          "Greedy"
+        ],
+        "topics": [
+          "String",
+          "Math"
+        ],
+        "timeComplexity": "O(n)",
+        "spaceComplexity": "O(n)"
+      },
+      "solvedAt": "2026-10-18T21:18:40.552Z"
     }
   ]
 }

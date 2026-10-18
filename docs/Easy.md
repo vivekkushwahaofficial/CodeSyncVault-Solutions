@@ -1,6 +1,6 @@
 # 🟢 Easy Problems
 
-**Total Problems Solved:** 29
+**Total Problems Solved:** 30
 
 [⬅ Back to Portfolio README](../README.md) | [📚 All Problems](AllProblems.md) | [📈 Statistics](../stats/progress.md)
 
@@ -26,6 +26,7 @@
 | First Unique Character in a String | Easy | Hash Table, String, Queue, Counting, Hash Map | Java | LeetCode | [View Solution](../LeetCode/Java/easy/First-Unique-Character-in-a-String/README.md) |
 | Fizz Buzz | Easy | Math, String, Simulation, Array | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Fizz-Buzz/README.md) |
 | Longest Common Prefix | Easy | Array, String, Trie | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Longest-Common-Prefix/README.md) |
+| Maximum Number of Balloons | Easy | Hash Table, String, Counting, Hash Map, Greedy, Math | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Maximum-Number-of-Balloons/README.md) |
 | Ransom Note | Easy | Hash Table, String, Counting, Hash Map | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Ransom-Note/README.md) |
 | Remove Duplicates from Sorted Array | Easy | Array, Sorting, Two Pointer | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Remove-Duplicates-from-Sorted-Array/README.md) |
 | Replace Elements with Greatest Element on Right Side | Easy | Array | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Replace-Elements-with-Greatest-Element-on-Right-Side/README.md) |

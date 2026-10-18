@@ -1,6 +1,6 @@
 # 📚 All Coding Problems
 
-> **37** problems solved across all supported platforms.
+> **38** problems solved across all supported platforms.
 
 [⬅ Back to Portfolio README](../README.md)
 
@@ -30,6 +30,7 @@
 | First Unique Character in a String | Easy | Hash Table, String, Queue, Counting, Hash Map | Java | LeetCode | [View Solution](../LeetCode/Java/easy/First-Unique-Character-in-a-String/README.md) |
 | Fizz Buzz | Easy | Math, String, Simulation, Array | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Fizz-Buzz/README.md) |
 | Longest Common Prefix | Easy | Array, String, Trie | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Longest-Common-Prefix/README.md) |
+| Maximum Number of Balloons | Easy | Hash Table, String, Counting, Hash Map, Greedy, Math | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Maximum-Number-of-Balloons/README.md) |
 | Maximum Subarray | Medium | Array, Divide and Conquer, Dynamic Programming, Sliding Window, Math, Subarray | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Maximum-Subarray/README.md) |
 | Merge Intervals | Medium | Array, Sorting, Quicksort | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Merge-Intervals/README.md) |
 | Peak Index in a Mountain Array | Medium | Binary Search, Array | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Peak-Index-in-a-Mountain-Array/README.md) |

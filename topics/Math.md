@@ -1,6 +1,6 @@
 # Math
 
-> 8 problems classified under this topic.
+> 9 problems classified under this topic.
 
 [← Back to README](../README.md) · [All Problems](../docs/AllProblems.md)
 
@@ -16,6 +16,7 @@
 | Nested Lists | Easy | Sorting, Math | Python | HackerRank | [View Solution](../HackerRank/Python/Easy/Nested-Lists/README.md) |
 | Reverse Linked List | Easy | Linked List, Recursion, Math | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Reverse-Linked-List/README.md) |
 | Fizz Buzz | Easy | Math, String, Simulation, Array | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Fizz-Buzz/README.md) |
+| Maximum Number of Balloons | Easy | Hash Table, String, Counting, Hash Map, Greedy, Math | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Maximum-Number-of-Balloons/README.md) |
 
 ---
 

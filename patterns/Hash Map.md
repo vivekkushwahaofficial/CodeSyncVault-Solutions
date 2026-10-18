@@ -1,6 +1,6 @@
 # Hash Map
 
-> 7 problems classified under this pattern.
+> 8 problems classified under this pattern.
 
 [← Back to README](../README.md) · [All Problems](../docs/AllProblems.md)
 
@@ -15,6 +15,7 @@
 | Top K Frequent Elements | Medium | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Top-K-Frequent-Elements/README.md) |
 | First Unique Character in a String | Easy | Hash Table, String, Queue, Counting, Hash Map | Java | LeetCode | [View Solution](../LeetCode/Java/easy/First-Unique-Character-in-a-String/README.md) |
 | Ransom Note | Easy | Hash Table, String, Counting, Hash Map | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Ransom-Note/README.md) |
+| Maximum Number of Balloons | Easy | Hash Table, String, Counting, Hash Map, Greedy, Math | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Maximum-Number-of-Balloons/README.md) |
 
 ---
 
