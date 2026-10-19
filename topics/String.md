@@ -1,6 +1,6 @@
 # String
 
-> 6 problems classified under this topic.
+> 7 problems classified under this topic.
 
 [← Back to README](../README.md) · [All Problems](../docs/AllProblems.md)
 
@@ -14,6 +14,7 @@
 | First Unique Character in a String | Easy | Hash Table, String, Queue, Counting, Hash Map | Java | LeetCode | [View Solution](../LeetCode/Java/easy/First-Unique-Character-in-a-String/README.md) |
 | Ransom Note | Easy | Hash Table, String, Counting, Hash Map | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Ransom-Note/README.md) |
 | Maximum Number of Balloons | Easy | Hash Table, String, Counting, Hash Map, Greedy, Math | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Maximum-Number-of-Balloons/README.md) |
+| Longest Palindrome | Easy | Hash Table, String, Greedy, Hash Map | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Longest-Palindrome/README.md) |
 
 ---
 

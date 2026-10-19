@@ -824,6 +824,33 @@
         "spaceComplexity": "O(n)"
       },
       "solvedAt": "2026-10-18T21:18:40.552Z"
+    },
+    {
+      "path": "LeetCode/Java/easy/Longest-Palindrome/Solution.java",
+      "metadata": {
+        "platform": "LeetCode",
+        "title": "Longest Palindrome",
+        "slug": "longest-palindrome",
+        "difficulty": "easy",
+        "language": "Java",
+        "url": "https://leetcode.com/problems/longest-palindrome/submissions/2176517598/",
+        "tags": [
+          "Hash Table",
+          "String",
+          "Greedy",
+          "Hash Map"
+        ],
+        "solvedAt": "2026-10-19T18:40:51.838Z",
+        "patterns": [
+          "Hash Map",
+          "Greedy"
+        ],
+        "topics": [
+          "String"
+        ],
+        "spaceComplexity": "O(n)"
+      },
+      "solvedAt": "2026-10-19T18:40:51.838Z"
     }
   ]
 }
