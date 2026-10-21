@@ -851,6 +851,37 @@
         "spaceComplexity": "O(n)"
       },
       "solvedAt": "2026-10-19T18:40:51.838Z"
+    },
+    {
+      "path": "LeetCode/Java/easy/Binary-Tree-Inorder-Traversal/Solution.java",
+      "metadata": {
+        "platform": "LeetCode",
+        "title": "Binary Tree Inorder Traversal",
+        "slug": "binary-tree-inorder-traversal",
+        "difficulty": "easy",
+        "language": "Java",
+        "url": "https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/2178285202/",
+        "tags": [
+          "Stack",
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree",
+          "DFS",
+          "Linked List",
+          "Math"
+        ],
+        "solvedAt": "2026-10-21T19:03:13.229Z",
+        "patterns": [
+          "Stack",
+          "DFS"
+        ],
+        "topics": [
+          "Tree",
+          "Linked List",
+          "Math"
+        ]
+      },
+      "solvedAt": "2026-10-21T19:03:13.229Z"
     }
   ]
 }
