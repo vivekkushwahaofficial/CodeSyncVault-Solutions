@@ -1,6 +1,6 @@
 # Math
 
-> 10 problems classified under this topic.
+> 11 problems classified under this topic.
 
 [← Back to README](../README.md) · [All Problems](../docs/AllProblems.md)
 
@@ -18,6 +18,7 @@
 | Fizz Buzz | Easy | Math, String, Simulation, Array | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Fizz-Buzz/README.md) |
 | Maximum Number of Balloons | Easy | Hash Table, String, Counting, Hash Map, Greedy, Math | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Maximum-Number-of-Balloons/README.md) |
 | Binary Tree Inorder Traversal | Easy | Stack, Tree, Depth-First Search, Binary Tree, DFS, Linked List, Math | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Binary-Tree-Inorder-Traversal/README.md) |
+| Binary Tree Preorder Traversal | Easy | Stack, Tree, Depth-First Search, Binary Tree, DFS, Linked List, Math | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Binary-Tree-Preorder-Traversal/README.md) |
 
 ---
 

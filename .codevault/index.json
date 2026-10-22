@@ -882,6 +882,37 @@
         ]
       },
       "solvedAt": "2026-10-21T19:03:13.229Z"
+    },
+    {
+      "path": "LeetCode/Java/easy/Binary-Tree-Preorder-Traversal/Solution.java",
+      "metadata": {
+        "platform": "LeetCode",
+        "title": "Binary Tree Preorder Traversal",
+        "slug": "binary-tree-preorder-traversal",
+        "difficulty": "easy",
+        "language": "Java",
+        "url": "https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/2178881573/",
+        "tags": [
+          "Stack",
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree",
+          "DFS",
+          "Linked List",
+          "Math"
+        ],
+        "solvedAt": "2026-10-22T14:25:30.420Z",
+        "patterns": [
+          "Stack",
+          "DFS"
+        ],
+        "topics": [
+          "Tree",
+          "Linked List",
+          "Math"
+        ]
+      },
+      "solvedAt": "2026-10-22T14:25:30.420Z"
     }
   ]
 }

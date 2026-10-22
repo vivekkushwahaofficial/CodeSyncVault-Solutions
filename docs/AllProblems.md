@@ -1,6 +1,6 @@
 # 📚 All Coding Problems
 
-> **40** problems solved across all supported platforms.
+> **41** problems solved across all supported platforms.
 
 [⬅ Back to Portfolio README](../README.md)
 
@@ -25,6 +25,7 @@
 | Add Binary | Easy | — | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Add-Binary/README.md) |
 | Binary Search | Easy | Binary Search | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Binary-Search/README.md) |
 | Binary Tree Inorder Traversal | Easy | Stack, Tree, Depth-First Search, Binary Tree, DFS, Linked List, Math | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Binary-Tree-Inorder-Traversal/README.md) |
+| Binary Tree Preorder Traversal | Easy | Stack, Tree, Depth-First Search, Binary Tree, DFS, Linked List, Math | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Binary-Tree-Preorder-Traversal/README.md) |
 | Contains Duplicate | Easy | Hash Map | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Contains-Duplicate/README.md) |
 | Contains Duplicate II | Easy | Hash Map | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Contains-Duplicate-II/README.md) |
 | Find Smallest Letter Greater Than Target | Easy | Binary Search | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Find-Smallest-Letter-Greater-Than-Target/README.md) |
