@@ -84,6 +84,7 @@
 
 | Problem | Difficulty | Language | Platform | Date |
 | --- | --- | --- | --- | --- |
+| [Reverse Linked List](LeetCode/Java/easy/Reverse-Linked-List/README.md) | Easy | Java | LeetCode | 2026-10-23 |
 | [Binary Tree Preorder Traversal](LeetCode/Java/easy/Binary-Tree-Preorder-Traversal/README.md) | Easy | Java | LeetCode | 2026-10-22 |
 | [Binary Tree Inorder Traversal](LeetCode/Java/easy/Binary-Tree-Inorder-Traversal/README.md) | Easy | Java | LeetCode | 2026-10-21 |
 | [Longest Palindrome](LeetCode/Java/easy/Longest-Palindrome/README.md) | Easy | Java | LeetCode | 2026-10-19 |
@@ -92,7 +93,6 @@
 | [First Unique Character in a String](LeetCode/Java/easy/First-Unique-Character-in-a-String/README.md) | Easy | Java | LeetCode | 2026-10-17 |
 | [Longest Common Prefix](LeetCode/Java/easy/Longest-Common-Prefix/README.md) | Easy | Java | LeetCode | 2026-10-14 |
 | [Fizz Buzz](LeetCode/Java/easy/Fizz-Buzz/README.md) | Easy | Java | LeetCode | 2026-10-13 |
-| [Reverse Linked List](LeetCode/Java/easy/Reverse-Linked-List/README.md) | Easy | Java | LeetCode | 2026-10-13 |
 | [Nested Lists](HackerRank/Python/Easy/Nested-Lists/README.md) | Easy | Python | HackerRank | 2026-10-12 |
 
 ## 📚 Solution Documentation

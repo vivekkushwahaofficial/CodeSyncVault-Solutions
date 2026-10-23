@@ -676,20 +676,20 @@
         "slug": "reverse-linked-list",
         "difficulty": "easy",
         "language": "Java",
-        "url": "https://leetcode.com/problems/reverse-linked-list/submissions/2171525910/",
+        "url": "https://leetcode.com/problems/reverse-linked-list/submissions/2179945189/",
         "tags": [
           "Linked List",
           "Recursion",
           "Math"
         ],
-        "solvedAt": "2026-10-13T18:50:08.251Z",
+        "solvedAt": "2026-10-23T18:45:58.717Z",
         "patterns": [],
         "topics": [
           "Linked List",
           "Math"
         ]
       },
-      "solvedAt": "2026-10-13T18:50:08.251Z"
+      "solvedAt": "2026-10-23T18:45:58.717Z"
     },
     {
       "path": "LeetCode/Java/easy/Fizz-Buzz/Solution.java",
