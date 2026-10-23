@@ -1,6 +1,6 @@
 # Math
 
-> 11 problems classified under this topic.
+> 12 problems classified under this topic.
 
 [← Back to README](../README.md) · [All Problems](../docs/AllProblems.md)
 
@@ -19,6 +19,7 @@
 | Maximum Number of Balloons | Easy | Hash Table, String, Counting, Hash Map, Greedy, Math | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Maximum-Number-of-Balloons/README.md) |
 | Binary Tree Inorder Traversal | Easy | Stack, Tree, Depth-First Search, Binary Tree, DFS, Linked List, Math | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Binary-Tree-Inorder-Traversal/README.md) |
 | Binary Tree Preorder Traversal | Easy | Stack, Tree, Depth-First Search, Binary Tree, DFS, Linked List, Math | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Binary-Tree-Preorder-Traversal/README.md) |
+| Swap Nodes in Pairs | Medium | Linked List, Recursion, Math | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Swap-Nodes-in-Pairs/README.md) |
 
 ---
 

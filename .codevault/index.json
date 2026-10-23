@@ -913,6 +913,29 @@
         ]
       },
       "solvedAt": "2026-10-22T14:25:30.420Z"
+    },
+    {
+      "path": "LeetCode/Java/medium/Swap-Nodes-in-Pairs/Solution.java",
+      "metadata": {
+        "platform": "LeetCode",
+        "title": "Swap Nodes in Pairs",
+        "slug": "swap-nodes-in-pairs",
+        "difficulty": "medium",
+        "language": "Java",
+        "url": "https://leetcode.com/problems/swap-nodes-in-pairs/submissions/2179979257/",
+        "tags": [
+          "Linked List",
+          "Recursion",
+          "Math"
+        ],
+        "solvedAt": "2026-10-23T19:44:03.173Z",
+        "patterns": [],
+        "topics": [
+          "Linked List",
+          "Math"
+        ]
+      },
+      "solvedAt": "2026-10-23T19:44:03.173Z"
     }
   ]
 }
