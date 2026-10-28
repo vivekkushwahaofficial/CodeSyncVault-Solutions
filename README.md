@@ -2,7 +2,7 @@
 
 > Automatically organized, analyzed, and updated by **CodeSyncVault**.
 
-[![Total Solved](https://img.shields.io/badge/Total%20Solved-42-6e40c9)](docs/AllProblems.md) [![Basic](https://img.shields.io/badge/Basic-1-4c9aff)](docs/Basic.md) [![Easy](https://img.shields.io/badge/Easy-33-2ea44f)](docs/Easy.md) [![Medium](https://img.shields.io/badge/Medium-8-f9a825)](docs/Medium.md) [![Hard](https://img.shields.io/badge/Hard-0-d73a49)](docs/Hard.md) [![Powered by CodeSyncVault](https://img.shields.io/badge/Powered%20by-CodeSyncVault-6e40c9)](https://github.com/vivekkushwahaofficial/CodeSyncVault)
+[![Total Solved](https://img.shields.io/badge/Total%20Solved-43-6e40c9)](docs/AllProblems.md) [![Basic](https://img.shields.io/badge/Basic-1-4c9aff)](docs/Basic.md) [![Easy](https://img.shields.io/badge/Easy-34-2ea44f)](docs/Easy.md) [![Medium](https://img.shields.io/badge/Medium-8-f9a825)](docs/Medium.md) [![Hard](https://img.shields.io/badge/Hard-0-d73a49)](docs/Hard.md) [![Powered by CodeSyncVault](https://img.shields.io/badge/Powered%20by-CodeSyncVault-6e40c9)](https://github.com/vivekkushwahaofficial/CodeSyncVault)
 
 ---
 
@@ -17,9 +17,9 @@
 
 | Metric | Count |
 | --- | ---: |
-| 🏆 Total Solved | 42 |
+| 🏆 Total Solved | 43 |
 | 🔵 Basic | 1 |
-| 🟢 Easy | 33 |
+| 🟢 Easy | 34 |
 | 🟠 Medium | 8 |
 | 🔴 Hard | 0 |
 
@@ -27,10 +27,10 @@
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 2% | 1/42 |
-| 🟢 Easy | ████████████████░░░░ 79% | 33/42 |
-| 🟠 Medium | ████░░░░░░░░░░░░░░░░ 19% | 8/42 |
-| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/42 |
+| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 2% | 1/43 |
+| 🟢 Easy | ████████████████░░░░ 79% | 34/43 |
+| 🟠 Medium | ████░░░░░░░░░░░░░░░░ 19% | 8/43 |
+| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/43 |
 
 ## 🔥 Coding Activity
 
@@ -43,9 +43,10 @@
 | [Hash Map](patterns/Hash%20Map.md) | 9 |
 | [Binary Search](patterns/Binary%20Search.md) | 6 |
 | [Sorting](patterns/Sorting.md) | 5 |
+| [DFS](patterns/DFS.md) | 3 |
 | [Stack](patterns/Stack.md) | 3 |
-| [DFS](patterns/DFS.md) | 2 |
 | [Greedy](patterns/Greedy.md) | 2 |
+| [BFS](patterns/BFS.md) | 1 |
 | [Dynamic Programming](patterns/Dynamic%20Programming.md) | 1 |
 | [Heap](patterns/Heap.md) | 1 |
 | [Monotonic Stack](patterns/Monotonic%20Stack.md) | 1 |
@@ -57,18 +58,18 @@
 
 | Topic | Problems |
 | --- | ---: |
-| [Math](topics/Math.md) | 12 |
+| [Math](topics/Math.md) | 13 |
 | [Array](topics/Array.md) | 8 |
 | [String](topics/String.md) | 7 |
-| [Linked List](topics/Linked%20List.md) | 4 |
-| [Tree](topics/Tree.md) | 2 |
+| [Linked List](topics/Linked%20List.md) | 5 |
+| [Tree](topics/Tree.md) | 3 |
 | [Hashing](topics/Hashing.md) | 1 |
 
 ## 💻 Languages
 
 | Language | Problems |
 | --- | ---: |
-| Java | 37 |
+| Java | 38 |
 | Python | 4 |
 | C++ | 1 |
 
@@ -76,7 +77,7 @@
 
 | Platform | Problems |
 | --- | ---: |
-| LeetCode | 30 |
+| LeetCode | 31 |
 | GeeksforGeeks | 7 |
 | HackerRank | 5 |
 
@@ -84,6 +85,7 @@
 
 | Problem | Difficulty | Language | Platform | Date |
 | --- | --- | --- | --- | --- |
+| [Maximum Depth of Binary Tree](LeetCode/Java/easy/Maximum-Depth-of-Binary-Tree/README.md) | Easy | Java | LeetCode | 2026-10-28 |
 | [Swap Nodes in Pairs](LeetCode/Java/medium/Swap-Nodes-in-Pairs/README.md) | Medium | Java | LeetCode | 2026-10-23 |
 | [Reverse Linked List](LeetCode/Java/easy/Reverse-Linked-List/README.md) | Easy | Java | LeetCode | 2026-10-23 |
 | [Binary Tree Preorder Traversal](LeetCode/Java/easy/Binary-Tree-Preorder-Traversal/README.md) | Easy | Java | LeetCode | 2026-10-22 |
@@ -93,7 +95,6 @@
 | [Ransom Note](LeetCode/Java/easy/Ransom-Note/README.md) | Easy | Java | LeetCode | 2026-10-17 |
 | [First Unique Character in a String](LeetCode/Java/easy/First-Unique-Character-in-a-String/README.md) | Easy | Java | LeetCode | 2026-10-17 |
 | [Longest Common Prefix](LeetCode/Java/easy/Longest-Common-Prefix/README.md) | Easy | Java | LeetCode | 2026-10-14 |
-| [Fizz Buzz](LeetCode/Java/easy/Fizz-Buzz/README.md) | Easy | Java | LeetCode | 2026-10-13 |
 
 ## 📚 Solution Documentation
 

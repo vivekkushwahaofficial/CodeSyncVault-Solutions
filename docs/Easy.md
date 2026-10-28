@@ -1,6 +1,6 @@
 # 🟢 Easy Problems
 
-**Total Problems Solved:** 33
+**Total Problems Solved:** 34
 
 [⬅ Back to Portfolio README](../README.md) | [📚 All Problems](AllProblems.md) | [📈 Statistics](../stats/progress.md)
 
@@ -29,6 +29,7 @@
 | Fizz Buzz | Easy | Math, String, Simulation, Array | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Fizz-Buzz/README.md) |
 | Longest Common Prefix | Easy | Array, String, Trie | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Longest-Common-Prefix/README.md) |
 | Longest Palindrome | Easy | Hash Table, String, Greedy, Hash Map | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Longest-Palindrome/README.md) |
+| Maximum Depth of Binary Tree | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree, BFS, DFS, Linked List, Math | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Maximum-Depth-of-Binary-Tree/README.md) |
 | Maximum Number of Balloons | Easy | Hash Table, String, Counting, Hash Map, Greedy, Math | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Maximum-Number-of-Balloons/README.md) |
 | Ransom Note | Easy | Hash Table, String, Counting, Hash Map | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Ransom-Note/README.md) |
 | Remove Duplicates from Sorted Array | Easy | Array, Sorting, Two Pointer | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Remove-Duplicates-from-Sorted-Array/README.md) |

@@ -1,6 +1,6 @@
 # 📚 All Coding Problems
 
-> **42** problems solved across all supported platforms.
+> **43** problems solved across all supported platforms.
 
 [⬅ Back to Portfolio README](../README.md)
 
@@ -33,6 +33,7 @@
 | Fizz Buzz | Easy | Math, String, Simulation, Array | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Fizz-Buzz/README.md) |
 | Longest Common Prefix | Easy | Array, String, Trie | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Longest-Common-Prefix/README.md) |
 | Longest Palindrome | Easy | Hash Table, String, Greedy, Hash Map | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Longest-Palindrome/README.md) |
+| Maximum Depth of Binary Tree | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree, BFS, DFS, Linked List, Math | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Maximum-Depth-of-Binary-Tree/README.md) |
 | Maximum Number of Balloons | Easy | Hash Table, String, Counting, Hash Map, Greedy, Math | Java | LeetCode | [View Solution](../LeetCode/Java/easy/Maximum-Number-of-Balloons/README.md) |
 | Maximum Subarray | Medium | Array, Divide and Conquer, Dynamic Programming, Sliding Window, Math, Subarray | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Maximum-Subarray/README.md) |
 | Merge Intervals | Medium | Array, Sorting, Quicksort | Java | LeetCode | [View Solution](../LeetCode/Java/medium/Merge-Intervals/README.md) |

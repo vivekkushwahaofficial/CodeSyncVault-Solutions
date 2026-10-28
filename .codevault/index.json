@@ -936,6 +936,38 @@
         ]
       },
       "solvedAt": "2026-10-23T19:44:03.173Z"
+    },
+    {
+      "path": "LeetCode/Java/easy/Maximum-Depth-of-Binary-Tree/Solution.java",
+      "metadata": {
+        "platform": "LeetCode",
+        "title": "Maximum Depth of Binary Tree",
+        "slug": "maximum-depth-of-binary-tree",
+        "difficulty": "easy",
+        "language": "Java",
+        "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/2184227428/",
+        "tags": [
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Binary Tree",
+          "BFS",
+          "DFS",
+          "Linked List",
+          "Math"
+        ],
+        "solvedAt": "2026-10-28T19:17:46.462Z",
+        "patterns": [
+          "BFS",
+          "DFS"
+        ],
+        "topics": [
+          "Tree",
+          "Linked List",
+          "Math"
+        ]
+      },
+      "solvedAt": "2026-10-28T19:17:46.462Z"
     }
   ]
 }
